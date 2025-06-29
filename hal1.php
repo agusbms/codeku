@@ -1,0 +1,2524 @@
+<!-- DEKLARASI DOKUMEN HTML -->
+<!-- Menunjukkan bahwa ini adalah dokumen HTML5 -->
+<!DOCTYPE html>
+<!-- TAG HTML UTAMA -->
+<!-- Menentukan bahasa Indonesia dan atribut default (no-js, meskipun jarang digunakan saat ini) -->
+<html lang="id" dir="no-js">
+    <!-- BAGIAN HEAD -->
+<!-- Berisi metadata, pengaturan, dan sumber daya yang tidak terlihat langsung di halaman -->
+<head>
+    <!-- PENGATURAN KARAKTER DAN RESPONSIVITAS -->
+    <!-- Menentukan encoding karakter UTF-8 dan responsivitas untuk berbagai perangkat -->
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name='viewport' content='width=device-width, initial-scale=1, user-scalable=yes' />
+    <!-- TAUTAN EKSTERNAL -->
+    <!-- Tautan ke profil XFN (jarang digunakan) dan pingback untuk WordPress -->
+    <link rel="profile" href="https://gmpg.org/xfn/11" />
+    <link rel="pingback" href="https://www.arrahmah.id/wp/xmlrpc.php" />
+
+    <!-- JUDUL HALAMAN WEB -->
+    <!-- Judul yang muncul di tab browser -->
+    <title>&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217; | Arrahmah.id</title>
+    <!-- METADATA UNTUK SEO -->
+    <!-- Deskripsi, kata kunci, dan pengaturan untuk mesin pencari -->
+<meta name='robots' content='max-image-preview:large' />
+	<style>img:is([sizes="auto" i], [sizes^="auto," i]) { contain-intrinsic-size: 3000px 1500px }</style>
+	<meta property="og:type" content="article">
+<meta property="og:title" content="&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;">
+    <!-- METADATA OPEN GRAPH UNTUK MEDIA SOSIAL -->
+    <!-- Pengaturan tampilan saat halaman dibagikan di media sosial seperti Facebook -->
+<meta property="og:site_name" content="Arrahmah.id">
+<meta property="og:description" content="GAZA (Arrahmah.id) - Pada Selasa (24/6/2025), Presiden AS Donald Trump memperingatkan &#039;Israel&#039; untuk tidak membombardir Iran, menyebut langkah itu sebagai">
+<meta property="og:url" content="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/">
+<meta property="og:locale" content="id_ID">
+<meta property="og:image" content="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=678%2C455&amp;ssl=1">
+<meta property="og:image:height" content="455">
+<meta property="og:image:width" content="678">
+<meta property="article:published_time" content="2025-06-25T07:31:58+07:00">
+<meta property="article:modified_time" content="2025-06-25T07:32:49+07:00">
+<meta property="article:section" content="Internasional">
+<meta property="article:tag" content="gencatan senjata">
+<meta property="article:tag" content="Headline">
+<meta property="article:tag" content="Iran">
+<meta property="article:tag" content="Israel">
+<meta property="article:tag" content="trump">
+    <!-- METADATA TWITTER CARD -->
+    <!-- Pengaturan tampilan saat halaman dibagikan di Twitter/X -->
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;">
+<meta name="twitter:description" content="GAZA (Arrahmah.id) - Pada Selasa (24/6/2025), Presiden AS Donald Trump memperingatkan &#039;Israel&#039; untuk tidak membombardir Iran, menyebut langkah itu sebagai">
+<meta name="twitter:url" content="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/">
+<meta name="twitter:site" content="">
+<meta name="twitter:image" content="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=678%2C455&amp;ssl=1">
+<meta name="twitter:image:width" content="678">
+<meta name="twitter:image:height" content="455">
+<!-- SKRIP JAVASCRIPT PERTAMA -->
+    <!-- Skrip untuk mengatur AJAX dan inisialisasi variabel jnews -->
+			<script type="text/javascript">
+			  var jnews_ajax_url = '/?ajax-request=jnews'
+			</script>
+			<script type="text/javascript">;window.jnews=window.jnews||{},window.jnews.library=window.jnews.library||{},window.jnews.library=function(){"use strict";var e=this;e.win=window,e.doc=document,e.noop=function(){},e.globalBody=e.doc.getElementsByTagName("body")[0],e.globalBody=e.globalBody?e.globalBody:e.doc,e.win.jnewsDataStorage=e.win.jnewsDataStorage||{_storage:new WeakMap,put:function(e,t,n){this._storage.has(e)||this._storage.set(e,new Map),this._storage.get(e).set(t,n)},get:function(e,t){return this._storage.get(e).get(t)},has:function(e,t){return this._storage.has(e)&&this._storage.get(e).has(t)},remove:function(e,t){var n=this._storage.get(e).delete(t);return 0===!this._storage.get(e).size&&this._storage.delete(e),n}},e.windowWidth=function(){return e.win.innerWidth||e.docEl.clientWidth||e.globalBody.clientWidth},e.windowHeight=function(){return e.win.innerHeight||e.docEl.clientHeight||e.globalBody.clientHeight},e.requestAnimationFrame=e.win.requestAnimationFrame||e.win.webkitRequestAnimationFrame||e.win.mozRequestAnimationFrame||e.win.msRequestAnimationFrame||window.oRequestAnimationFrame||function(e){return setTimeout(e,1e3/60)},e.cancelAnimationFrame=e.win.cancelAnimationFrame||e.win.webkitCancelAnimationFrame||e.win.webkitCancelRequestAnimationFrame||e.win.mozCancelAnimationFrame||e.win.msCancelRequestAnimationFrame||e.win.oCancelRequestAnimationFrame||function(e){clearTimeout(e)},e.classListSupport="classList"in document.createElement("_"),e.hasClass=e.classListSupport?function(e,t){return e.classList.contains(t)}:function(e,t){return e.className.indexOf(t)>=0},e.addClass=e.classListSupport?function(t,n){e.hasClass(t,n)||t.classList.add(n)}:function(t,n){e.hasClass(t,n)||(t.className+=" "+n)},e.removeClass=e.classListSupport?function(t,n){e.hasClass(t,n)&&t.classList.remove(n)}:function(t,n){e.hasClass(t,n)&&(t.className=t.className.replace(n,""))},e.objKeys=function(e){var t=[];for(var n in e)Object.prototype.hasOwnProperty.call(e,n)&&t.push(n);return t},e.isObjectSame=function(e,t){var n=!0;return JSON.stringify(e)!==JSON.stringify(t)&&(n=!1),n},e.extend=function(){for(var e,t,n,o=arguments[0]||{},i=1,a=arguments.length;i<a;i++)if(null!==(e=arguments[i]))for(t in e)o!==(n=e[t])&&void 0!==n&&(o[t]=n);return o},e.dataStorage=e.win.jnewsDataStorage,e.isVisible=function(e){return 0!==e.offsetWidth&&0!==e.offsetHeight||e.getBoundingClientRect().length},e.getHeight=function(e){return e.offsetHeight||e.clientHeight||e.getBoundingClientRect().height},e.getWidth=function(e){return e.offsetWidth||e.clientWidth||e.getBoundingClientRect().width},e.supportsPassive=!1;try{var t=Object.defineProperty({},"passive",{get:function(){e.supportsPassive=!0}});"createEvent"in e.doc?e.win.addEventListener("test",null,t):"fireEvent"in e.doc&&e.win.attachEvent("test",null)}catch(e){}e.passiveOption=!!e.supportsPassive&&{passive:!0},e.setStorage=function(e,t){e="jnews-"+e;var n={expired:Math.floor(((new Date).getTime()+432e5)/1e3)};t=Object.assign(n,t);localStorage.setItem(e,JSON.stringify(t))},e.getStorage=function(e){e="jnews-"+e;var t=localStorage.getItem(e);return null!==t&&0<t.length?JSON.parse(localStorage.getItem(e)):{}},e.expiredStorage=function(){var t,n="jnews-";for(var o in localStorage)o.indexOf(n)>-1&&"undefined"!==(t=e.getStorage(o.replace(n,""))).expired&&t.expired<Math.floor((new Date).getTime()/1e3)&&localStorage.removeItem(o)},e.addEvents=function(t,n,o){for(var i in n){var a=["touchstart","touchmove"].indexOf(i)>=0&&!o&&e.passiveOption;"createEvent"in e.doc?t.addEventListener(i,n[i],a):"fireEvent"in e.doc&&t.attachEvent("on"+i,n[i])}},e.removeEvents=function(t,n){for(var o in n)"createEvent"in e.doc?t.removeEventListener(o,n[o]):"fireEvent"in e.doc&&t.detachEvent("on"+o,n[o])},e.triggerEvents=function(t,n,o){var i;o=o||{detail:null};return"createEvent"in e.doc?(!(i=e.doc.createEvent("CustomEvent")||new CustomEvent(n)).initCustomEvent||i.initCustomEvent(n,!0,!1,o),void t.dispatchEvent(i)):"fireEvent"in e.doc?((i=e.doc.createEventObject()).eventType=n,void t.fireEvent("on"+i.eventType,i)):void 0},e.getParents=function(t,n){void 0===n&&(n=e.doc);for(var o=[],i=t.parentNode,a=!1;!a;)if(i){var r=i;r.querySelectorAll(n).length?a=!0:(o.push(r),i=r.parentNode)}else o=[],a=!0;return o},e.forEach=function(e,t,n){for(var o=0,i=e.length;o<i;o++)t.call(n,e[o],o)},e.getText=function(e){return e.innerText||e.textContent},e.setText=function(e,t){var n="object"==typeof t?t.innerText||t.textContent:t;e.innerText&&(e.innerText=n),e.textContent&&(e.textContent=n)},e.httpBuildQuery=function(t){return e.objKeys(t).reduce(function t(n){var o=arguments.length>1&&void 0!==arguments[1]?arguments[1]:null;return function(i,a){var r=n[a];a=encodeURIComponent(a);var s=o?"".concat(o,"[").concat(a,"]"):a;return null==r||"function"==typeof r?(i.push("".concat(s,"=")),i):["number","boolean","string"].includes(typeof r)?(i.push("".concat(s,"=").concat(encodeURIComponent(r))),i):(i.push(e.objKeys(r).reduce(t(r,s),[]).join("&")),i)}}(t),[]).join("&")},e.get=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("GET",t,n,o,i)},e.post=function(t,n,o,i){return o="function"==typeof o?o:e.noop,e.ajax("POST",t,n,o,i)},e.ajax=function(t,n,o,i,a){var r=new XMLHttpRequest,s=n,c=e.httpBuildQuery(o);if(t=-1!=["GET","POST"].indexOf(t)?t:"GET",r.open(t,s+("GET"==t?"?"+c:""),!0),"POST"==t&&r.setRequestHeader("Content-type","application/x-www-form-urlencoded"),r.setRequestHeader("X-Requested-With","XMLHttpRequest"),r.onreadystatechange=function(){4===r.readyState&&200<=r.status&&300>r.status&&"function"==typeof i&&i.call(void 0,r.response)},void 0!==a&&!a){return{xhr:r,send:function(){r.send("POST"==t?c:null)}}}return r.send("POST"==t?c:null),{xhr:r}},e.scrollTo=function(t,n,o){function i(e,t,n){this.start=this.position(),this.change=e-this.start,this.currentTime=0,this.increment=20,this.duration=void 0===n?500:n,this.callback=t,this.finish=!1,this.animateScroll()}return Math.easeInOutQuad=function(e,t,n,o){return(e/=o/2)<1?n/2*e*e+t:-n/2*(--e*(e-2)-1)+t},i.prototype.stop=function(){this.finish=!0},i.prototype.move=function(t){e.doc.documentElement.scrollTop=t,e.globalBody.parentNode.scrollTop=t,e.globalBody.scrollTop=t},i.prototype.position=function(){return e.doc.documentElement.scrollTop||e.globalBody.parentNode.scrollTop||e.globalBody.scrollTop},i.prototype.animateScroll=function(){this.currentTime+=this.increment;var t=Math.easeInOutQuad(this.currentTime,this.start,this.change,this.duration);this.move(t),this.currentTime<this.duration&&!this.finish?e.requestAnimationFrame.call(e.win,this.animateScroll.bind(this)):this.callback&&"function"==typeof this.callback&&this.callback()},new i(t,n,o)},e.unwrap=function(t){var n,o=t;e.forEach(t,(function(e,t){n?n+=e:n=e})),o.replaceWith(n)},e.performance={start:function(e){performance.mark(e+"Start")},stop:function(e){performance.mark(e+"End"),performance.measure(e,e+"Start",e+"End")}},e.fps=function(){var t=0,n=0,o=0;!function(){var i=t=0,a=0,r=0,s=document.getElementById("fpsTable"),c=function(t){void 0===document.getElementsByTagName("body")[0]?e.requestAnimationFrame.call(e.win,(function(){c(t)})):document.getElementsByTagName("body")[0].appendChild(t)};null===s&&((s=document.createElement("div")).style.position="fixed",s.style.top="120px",s.style.left="10px",s.style.width="100px",s.style.height="20px",s.style.border="1px solid black",s.style.fontSize="11px",s.style.zIndex="100000",s.style.backgroundColor="white",s.id="fpsTable",c(s));var l=function(){o++,n=Date.now(),(a=(o/(r=(n-t)/1e3)).toPrecision(2))!=i&&(i=a,s.innerHTML=i+"fps"),1<r&&(t=n,o=0),e.requestAnimationFrame.call(e.win,l)};l()}()},e.instr=function(e,t){for(var n=0;n<t.length;n++)if(-1!==e.toLowerCase().indexOf(t[n].toLowerCase()))return!0},e.winLoad=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.win,{load:o})},e.docReady=function(t,n){function o(o){if("complete"===e.doc.readyState||"interactive"===e.doc.readyState)return!o||n?setTimeout(t,n||1):t(o),1}o()||e.addEvents(e.doc,{DOMContentLoaded:o})},e.fireOnce=function(){e.docReady((function(){e.assets=e.assets||[],e.assets.length&&(e.boot(),e.load_assets())}),50)},e.boot=function(){e.length&&e.doc.querySelectorAll("style[media]").forEach((function(e){"not all"==e.getAttribute("media")&&e.removeAttribute("media")}))},e.create_js=function(t,n){var o=e.doc.createElement("script");switch(o.setAttribute("src",t),n){case"defer":o.setAttribute("defer",!0);break;case"async":o.setAttribute("async",!0);break;case"deferasync":o.setAttribute("defer",!0),o.setAttribute("async",!0)}e.globalBody.appendChild(o)},e.load_assets=function(){"object"==typeof e.assets&&e.forEach(e.assets.slice(0),(function(t,n){var o="";t.defer&&(o+="defer"),t.async&&(o+="async"),e.create_js(t.url,o);var i=e.assets.indexOf(t);i>-1&&e.assets.splice(i,1)})),e.assets=jnewsoption.au_scripts=window.jnewsads=[]},e.setCookie=function(e,t,n){var o="";if(n){var i=new Date;i.setTime(i.getTime()+24*n*60*60*1e3),o="; expires="+i.toUTCString()}document.cookie=e+"="+(t||"")+o+"; path=/"},e.getCookie=function(e){for(var t=e+"=",n=document.cookie.split(";"),o=0;o<n.length;o++){for(var i=n[o];" "==i.charAt(0);)i=i.substring(1,i.length);if(0==i.indexOf(t))return i.substring(t.length,i.length)}return null},e.eraseCookie=function(e){document.cookie=e+"=; Path=/; Expires=Thu, 01 Jan 1970 00:00:01 GMT;"},e.docReady((function(){e.globalBody=e.globalBody==e.doc?e.doc.getElementsByTagName("body")[0]:e.globalBody,e.globalBody=e.globalBody?e.globalBody:e.doc})),e.winLoad((function(){e.winLoad((function(){var t=!1;if(void 0!==window.jnewsadmin)if(void 0!==window.file_version_checker){var n=e.objKeys(window.file_version_checker);n.length?n.forEach((function(e){t||"10.0.4"===window.file_version_checker[e]||(t=!0)})):t=!0}else t=!0;t&&(window.jnewsHelper.getMessage(),window.jnewsHelper.getNotice())}),2500)}))},window.jnews.library=new window.jnews.library;</script><!-- Jetpack Site Verification Tags -->
+<meta name="google-site-verification" content="3LeEELdVbMjhnHMzb78vmkBS6raxeH3iH42xW-rYguI" />
+<meta name="p:domain_verify" content="8747f377fd28915419c2e81565e2e2f7" />
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//jetpack.wordpress.com' />
+<link rel='dns-prefetch' href='//s0.wp.com' />
+<link rel='dns-prefetch' href='//public-api.wordpress.com' />
+<link rel='dns-prefetch' href='//0.gravatar.com' />
+<link rel='dns-prefetch' href='//1.gravatar.com' />
+<link rel='dns-prefetch' href='//2.gravatar.com' />
+    <!-- TAUTAN RSS FEED -->
+    <!-- Tautan untuk RSS feed artikel dan komentar -->
+<link rel='preconnect' href='//c0.wp.com' />
+<link rel='preconnect' href='//i0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Arrahmah.id &raquo; Feed" href="https://www.arrahmah.id/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Arrahmah.id &raquo; Umpan Komentar" href="https://www.arrahmah.id/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Arrahmah.id &raquo; &#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217; Umpan Komentar" href="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/feed/" />
+    <!-- SKRIP JAVASCRIPT KEDUA -->
+    <!-- Skrip untuk mendukung pemuatan emoji WordPress -->
+<script type="text/javascript">
+/* <![CDATA[ */
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.arrahmah.id\/wp\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.7.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+/* ]]> */
+</script>
+    <!-- SKRIP UNTUK PENGELOLAAN IKLAN -->
+    <!-- Skrip untuk menangani pemuatan iklan menggunakan Advanced Ads -->
+<script id="arrah-ready">
+			window.advanced_ads_ready=function(e,a){a=a||"complete";var d=function(e){return"interactive"===a?"loading"!==e:"complete"===e};d(document.readyState)?e():document.addEventListener("readystatechange",(function(a){d(a.target.readyState)&&e()}),{once:"interactive"===a})},window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[];		</script>
+    <!-- GAYA CSS UNTUK EMOJI -->
+    <!-- Gaya untuk memastikan emoji ditampilkan dengan benar -->
+		<style id='wp-emoji-styles-inline-css' type='text/css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+    <!-- TAUTAN KE FILE CSS EKSTERNAL -->
+    <!-- Memuat file CSS untuk gaya halaman, plugin, dan media -->
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.7.2/wp-includes/css/dist/block-library/style.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='plethoraplugins-tabs-style-css' href='https://www.arrahmah.id/wp/wp-content/plugins/plethora-tabs-accordions/build/style-index.css?ver=1.4.1' type='text/css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.7.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.7.2/wp-includes/js/mediaelement/wp-mediaelement.min.css' type='text/css' media='all' />
+    <!-- GAYA CSS UNTUK TOMBOL BERBAGI JETPACK -->
+    <!-- Gaya untuk tombol berbagi media sosial dari plugin Jetpack -->
+<style id='jetpack-sharing-buttons-style-inline-css' type='text/css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+    <!-- GAYA CSS UNTUK TEMA KLASIK -->
+    <!-- Gaya untuk elemen tombol dan file dalam tema WordPress klasik -->
+<style id='classic-theme-styles-inline-css' type='text/css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+    <!-- GAYA CSS GLOBAL -->
+    <!-- Gaya global menggunakan variabel CSS untuk warna, font, dan tata letak -->
+<style id='global-styles-inline-css' type='text/css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+    <!-- TAUTAN CSS TAMBAHAN -->
+    <!-- Memuat file CSS tambahan untuk plugin dan tema -->
+
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.arrahmah.id/wp/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=6.0.6' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-video-css' href='https://www.arrahmah.id/wp/wp-content/plugins/jnews-video/assets/css/plugin.css?ver=11.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='wp-smart-crop-renderer-css' href='https://www.arrahmah.id/wp/wp-content/plugins/wp-smartcrop/css/image-renderer.css?ver=2.0.10' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-parent-style-css' href='https://www.arrahmah.id/wp/wp-content/themes/jnews/style.css?ver=6.7.2' type='text/css' media='all' />
+<link rel='stylesheet' id='js_composer_front-css' href='https://www.arrahmah.id/wp/wp-content/plugins/js_composer/assets/css/js_composer.min.css?ver=8.2' type='text/css' media='all' />
+<style id='akismet-widget-style-inline-css' type='text/css'>
+
+			.a-stats {
+				--akismet-color-mid-green: #357b49;
+				--akismet-color-white: #fff;
+				--akismet-color-light-grey: #f6f7f7;
+
+				max-width: 350px;
+				width: auto;
+			}
+
+			.a-stats * {
+				all: unset;
+				box-sizing: border-box;
+			}
+
+			.a-stats strong {
+				font-weight: 600;
+			}
+
+			.a-stats a.a-stats__link,
+			.a-stats a.a-stats__link:visited,
+			.a-stats a.a-stats__link:active {
+				background: var(--akismet-color-mid-green);
+				border: none;
+				box-shadow: none;
+				border-radius: 8px;
+				color: var(--akismet-color-white);
+				cursor: pointer;
+				display: block;
+				font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen-Sans', 'Ubuntu', 'Cantarell', 'Helvetica Neue', sans-serif;
+				font-weight: 500;
+				padding: 12px;
+				text-align: center;
+				text-decoration: none;
+				transition: all 0.2s ease;
+			}
+
+			/* Extra specificity to deal with TwentyTwentyOne focus style */
+			.widget .a-stats a.a-stats__link:focus {
+				background: var(--akismet-color-mid-green);
+				color: var(--akismet-color-white);
+				text-decoration: none;
+			}
+
+			.a-stats a.a-stats__link:hover {
+				filter: brightness(110%);
+				box-shadow: 0 4px 12px rgba(0, 0, 0, 0.06), 0 0 2px rgba(0, 0, 0, 0.16);
+			}
+
+			.a-stats .count {
+				color: var(--akismet-color-white);
+				display: block;
+				font-size: 1.5em;
+				line-height: 1.4;
+				padding: 0 13px;
+				white-space: nowrap;
+			}
+		
+</style>
+    <!-- TAUTAN CSS LAINNYA -->
+    <!-- Memuat file CSS tambahan untuk tema JNews dan mode gelap -->
+<link rel='stylesheet' id='jnews-frontend-css' href='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/dist/frontend.min.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-js-composer-css' href='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/css/js-composer-frontend.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-style-css' href='https://www.arrahmah.id/wp/wp-content/themes/arm23/style.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-darkmode-css' href='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/css/darkmode.css?ver=1.0.0' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-video-darkmode-css' href='https://www.arrahmah.id/wp/wp-content/plugins/jnews-video/assets/css/darkmode.css?ver=11.6.2' type='text/css' media='all' />
+<link rel='stylesheet' id='jnews-select-share-css' href='https://www.arrahmah.id/wp/wp-content/plugins/jnews-social-share/assets/css/plugin.css' type='text/css' media='all' />
+    <!-- SKRIP JAVASCRIPT EKSTERNAL -->
+    <!-- Memuat jQuery dan skrip migrasi untuk kompatibilitas -->
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script></script>
+    <!-- METADATA TAMBAHAN -->
+    <!-- Metadata untuk WordPress, oEmbed, dan generator -->
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.arrahmah.id/wp/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.7.2" />
+<link rel="canonical" href="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/" />
+<link rel='shortlink' href='https://www.arrahmah.id/?p=500234' />
+<link rel="alternate" title="oEmbed (JSON)" type="application/json+oembed" href="https://www.arrahmah.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" />
+<link rel="alternate" title="oEmbed (XML)" type="text/xml+oembed" href="https://www.arrahmah.id/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F&#038;format=xml" />
+	<style>img#wpstats{display:none}</style>
+		<meta name="description" content="GAZA (Arrahmah.id) - Pada Selasa (24/6/2025), Presiden AS Donald Trump memperingatkan &#039;Israel&#039; untuk tidak membombardir Iran, menyebut langkah itu sebagai “pelanggaran berat” terhadap kesepakatan gencatan senjata yang dia umumkan sebelumnya. “ISRAEL. JANGAN JATUHKAN BOM ITU. KALAU KALIAN LAKUKAN, ITU PELANGGARAN BESAR. TARIK SEMUA PILOT KALIAN PULANG, SEKARANG JUGA!” tulis Trump dengan nada keras di platform&hellip;" />
+<meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress."/>
+    <!-- DATA STRUKTUR JSON-LD -->
+    <!-- Data terstruktur untuk SEO dan informasi organisasi -->
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"Organization","@id":"https:\/\/www.arrahmah.id\/wp\/#organization","url":"https:\/\/www.arrahmah.id\/wp\/","name":"","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.whatsapp.com\/channel\/0029VaDtrFx3gvWc9mJ0Wt3M","https:\/\/twitter.com\/arrahmah","https:\/\/instagram.com\/beritaarrahmah","https:\/\/telegram.me\/arrahmahcom","https:\/\/www.tiktok.com\/@arrahmahinside","https:\/\/youtube.com\/@arrahmah_id","https:\/\/thexapp.app.link\/b424V8Oo1Fb"]}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"https:\/\/www.arrahmah.id\/wp\/#website","url":"https:\/\/www.arrahmah.id\/wp\/","name":"","potentialAction":{"@type":"SearchAction","target":"https:\/\/www.arrahmah.id\/wp\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+    <!-- IKON DAN FAVICON -->
+    <!-- Ikon untuk browser dan perangkat mobile -->
+<link rel="icon" href="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmahlogo2.jpeg?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmahlogo2.jpeg?fit=150%2C150&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmahlogo2.jpeg?fit=150%2C150&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmahlogo2.jpeg?fit=150%2C150&#038;ssl=1" />
+    <!-- GAYA CSS DINAMIS -->
+    <!-- Gaya kustom untuk tema JNews, termasuk warna dan tata letak -->
+
+<style id="jeg_dynamic_css" type="text/css" data-type="jeg_custom-css">body { --j-accent-color : #1a2b48; --j-alt-color : #1e73be; --j-heading-color : #1a2b48; } a, .jeg_menu_style_5>li>a:hover, .jeg_menu_style_5>li.sfHover>a, .jeg_menu_style_5>li.current-menu-item>a, .jeg_menu_style_5>li.current-menu-ancestor>a, .jeg_navbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_midbar .jeg_menu:not(.jeg_main_menu)>li>a:hover, .jeg_side_tabs li.active, .jeg_block_heading_5 strong, .jeg_block_heading_6 strong, .jeg_block_heading_7 strong, .jeg_block_heading_8 strong, .jeg_subcat_list li a:hover, .jeg_subcat_list li button:hover, .jeg_pl_lg_7 .jeg_thumb .jeg_post_category a, .jeg_pl_xs_2:before, .jeg_pl_xs_4 .jeg_postblock_content:before, .jeg_postblock .jeg_post_title a:hover, .jeg_hero_style_6 .jeg_post_title a:hover, .jeg_sidefeed .jeg_pl_xs_3 .jeg_post_title a:hover, .widget_jnews_popular .jeg_post_title a:hover, .jeg_meta_author a, .widget_archive li a:hover, .widget_pages li a:hover, .widget_meta li a:hover, .widget_recent_entries li a:hover, .widget_rss li a:hover, .widget_rss cite, .widget_categories li a:hover, .widget_categories li.current-cat>a, #breadcrumbs a:hover, .jeg_share_count .counts, .commentlist .bypostauthor>.comment-body>.comment-author>.fn, span.required, .jeg_review_title, .bestprice .price, .authorlink a:hover, .jeg_vertical_playlist .jeg_video_playlist_play_icon, .jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail:before, .jeg_horizontal_playlist .jeg_video_playlist_play, .woocommerce li.product .pricegroup .button, .widget_display_forums li a:hover, .widget_display_topics li:before, .widget_display_replies li:before, .widget_display_views li:before, .bbp-breadcrumb a:hover, .jeg_mobile_menu li.sfHover>a, .jeg_mobile_menu li a:hover, .split-template-6 .pagenum, .jeg_mobile_menu_style_5>li>a:hover, .jeg_mobile_menu_style_5>li.sfHover>a, .jeg_mobile_menu_style_5>li.current-menu-item>a, .jeg_mobile_menu_style_5>li.current-menu-ancestor>a, .jeg_mobile_menu.jeg_menu_dropdown li.open > div > a { color : #1a2b48; } .jeg_menu_style_1>li>a:before, .jeg_menu_style_2>li>a:before, .jeg_menu_style_3>li>a:before, .jeg_side_toggle, .jeg_slide_caption .jeg_post_category a, .jeg_slider_type_1_wrapper .tns-controls button.tns-next, .jeg_block_heading_1 .jeg_block_title span, .jeg_block_heading_2 .jeg_block_title span, .jeg_block_heading_3, .jeg_block_heading_4 .jeg_block_title span, .jeg_block_heading_6:after, .jeg_pl_lg_box .jeg_post_category a, .jeg_pl_md_box .jeg_post_category a, .jeg_readmore:hover, .jeg_thumb .jeg_post_category a, .jeg_block_loadmore a:hover, .jeg_postblock.alt .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_postblock_carousel_2 .jeg_post_category a, .jeg_heroblock .jeg_post_category a, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, input[type="submit"], .btn, .button, .widget_tag_cloud a:hover, .popularpost_item:hover .jeg_post_title a:before, .jeg_splitpost_4 .page_nav, .jeg_splitpost_5 .page_nav, .jeg_post_via a:hover, .jeg_post_source a:hover, .jeg_post_tags a:hover, .comment-reply-title small a:before, .comment-reply-title small a:after, .jeg_storelist .productlink, .authorlink li.active a:before, .jeg_footer.dark .socials_widget:not(.nobg) a:hover .fa,.jeg_footer.dark .socials_widget:not(.nobg) a:hover span.jeg-icon, div.jeg_breakingnews_title, .jeg_overlay_slider_bottom_wrapper .tns-controls button, .jeg_overlay_slider_bottom_wrapper .tns-controls button:hover, .jeg_vertical_playlist .jeg_video_playlist_current, .woocommerce span.onsale, .woocommerce #respond input#submit:hover, .woocommerce a.button:hover, .woocommerce button.button:hover, .woocommerce input.button:hover, .woocommerce #respond input#submit.alt, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .jeg_popup_post .caption, .jeg_footer.dark input[type="submit"], .jeg_footer.dark .btn, .jeg_footer.dark .button, .footer_widget.widget_tag_cloud a:hover, .jeg_inner_content .content-inner .jeg_post_category a:hover, #buddypress .standard-form button, #buddypress a.button, #buddypress input[type="submit"], #buddypress input[type="button"], #buddypress input[type="reset"], #buddypress ul.button-nav li a, #buddypress .generic-button a, #buddypress .generic-button button, #buddypress .comment-reply-link, #buddypress a.bp-title-button, #buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a, div#buddypress .standard-form button:hover, div#buddypress a.button:hover, div#buddypress input[type="submit"]:hover, div#buddypress input[type="button"]:hover, div#buddypress input[type="reset"]:hover, div#buddypress ul.button-nav li a:hover, div#buddypress .generic-button a:hover, div#buddypress .generic-button button:hover, div#buddypress .comment-reply-link:hover, div#buddypress a.bp-title-button:hover, div#buddypress.buddypress-wrap .members-list li .user-update .activity-read-more a:hover, #buddypress #item-nav .item-list-tabs ul li a:before, .jeg_inner_content .jeg_meta_container .follow-wrapper a { background-color : #1a2b48; } .jeg_block_heading_7 .jeg_block_title span, .jeg_readmore:hover, .jeg_block_loadmore a:hover, .jeg_block_loadmore a.active, .jeg_pagenav_1 .page_number.active, .jeg_pagenav_1 .page_number.active:hover, .jeg_pagenav_3 .page_number:hover, .jeg_prevnext_post a:hover h3, .jeg_overlay_slider .jeg_post_category, .jeg_sidefeed .jeg_post.active, .jeg_vertical_playlist.jeg_vertical_playlist .jeg_video_playlist_item.active .jeg_video_playlist_thumbnail img, .jeg_horizontal_playlist .jeg_video_playlist_item.active { border-color : #1a2b48; } .jeg_tabpost_nav li.active, .woocommerce div.product .woocommerce-tabs ul.tabs li.active, .jeg_mobile_menu_style_1>li.current-menu-item a, .jeg_mobile_menu_style_1>li.current-menu-ancestor a, .jeg_mobile_menu_style_2>li.current-menu-item::after, .jeg_mobile_menu_style_2>li.current-menu-ancestor::after, .jeg_mobile_menu_style_3>li.current-menu-item::before, .jeg_mobile_menu_style_3>li.current-menu-ancestor::before { border-bottom-color : #1a2b48; } .jeg_post_share .jeg-icon svg { fill : #1a2b48; } .jeg_post_meta .fa, .jeg_post_meta .jpwt-icon, .entry-header .jeg_post_meta .fa, .jeg_review_stars, .jeg_price_review_list { color : #1e73be; } .jeg_share_button.share-float.share-monocrhome a { background-color : #1e73be; } h1,h2,h3,h4,h5,h6,.jeg_post_title a,.entry-header .jeg_post_title,.jeg_hero_style_7 .jeg_post_title a,.jeg_block_title,.jeg_splitpost_bar .current_title,.jeg_video_playlist_title,.gallery-caption,.jeg_push_notification_button>a.button { color : #1a2b48; } .split-template-9 .pagenum, .split-template-10 .pagenum, .split-template-11 .pagenum, .split-template-12 .pagenum, .split-template-13 .pagenum, .split-template-15 .pagenum, .split-template-18 .pagenum, .split-template-20 .pagenum, .split-template-19 .current_title span, .split-template-20 .current_title span { background-color : #1a2b48; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_search_no_expand .jeg_search_input { line-height : 28px; } .jeg_topbar .jeg_nav_row, .jeg_topbar .jeg_nav_icon { height : 28px; } .jeg_midbar { height : 85px; } .jeg_stickybar.jeg_navbar,.jeg_navbar .jeg_nav_icon { height : 60px; } .jeg_stickybar.jeg_navbar, .jeg_stickybar .jeg_main_menu:not(.jeg_menu_style_1) > li > a, .jeg_stickybar .jeg_menu_style_1 > li, .jeg_stickybar .jeg_menu:not(.jeg_main_menu) > li > a { line-height : 60px; } .jeg_header .jeg_vertical_menu.jeg_vertical_menu_1 { border-top-width : 16px; } .jeg_nav_search { width : 90%; } </style>
+    <!-- SKRIP UNTUK PENANGANAN GAMBAR YANG GAGAL DIMUAT -->
+    <!-- Menangani gambar yang gagal dimuat dengan menggantinya ke gambar default -->
+<script>
+jQuery(document).ready(function($){
+    $('img.wp-post-image').each(function(index) {
+        $(this).on('error', function() {
+            $(this).unbind('error').attr('src', '/wp/images/stories/2022/12/no-image.jpg');
+            //$(this).hide();
+        });
+    });
+});
+</script>
+<noscript>
+<style> .wpb_animate_when_almost_visible { opacity: 1; }
+    <!-- NONAKTIFKAN ANIMASI WPBAKERY JIKA JAVASCRIPT DINONAKTIFKAN -->
+    <!-- Memastikan elemen WPBakery terlihat tanpa animasi jika JavaScript dinonaktifkan -->
+</style>
+</noscript>
+</head>
+<body class="post-template-default single single-post postid-500234 single-format-standard wp-custom-logo wp-embed-responsive jeg_toggle_light jeg_single_tpl_8 jnews jeg-mobile-table-scrollable jsc_normal wpb-js-composer js-comp-ver-8.2 vc_responsive aa-prefix-arrah-">
+
+<!-- Iklan di Bagian Atas Halaman -->
+    
+    
+    <div class="jeg_ad jeg_ad_top jnews_header_top_ads">
+        <div class='ads-wrapper  '></div>    </div>
+
+    <!-- Wrapper Utama untuk Konten Halaman -->
+    <div class="jeg_viewport">
+<!-- Wrapper untuk Header -->
+        
+        <div class="jeg_header_wrapper">
+            <div class="jeg_header_instagram_wrapper">
+    </div>
+
+<!-- Bagian Header Utama -->
+<!-- HEADER -->
+<div class="jeg_header normal">
+<!-- Top Bar dengan Navigasi dan Informasi -->
+    <div class="jeg_topbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+<!-- Kolom Navigasi Kiri -->                
+                <div class="jeg_nav_col jeg_nav_left  jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+<!-- Tanggal di Top Bar -->   
+<div class="jeg_nav_item jeg_top_date">
+    Rab, 25 Juni 2025 / 29 Dzulhijjah 1446</div>
+<!-- Menu Navigasi Top Bar -->
+    <div class="jeg_nav_item">
+	<ul class="jeg_menu jeg_top_menu"><li id="menu-item-354284" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354284"><a href="https://www.arrahmah.id/about/">About</a></li>
+<li id="menu-item-388917" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388917"><a href="https://www.arrahmah.id/about/redaksi/">Redaksi</a></li>
+<li id="menu-item-392847" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392847"><a href="https://donasi.arrahmah.id/">Donasi</a></li>
+<li id="menu-item-354280" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354280"><a href="https://www.arrahmah.id/about/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-388859" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388859"><a href="https://www.arrahmah.id/about/copyright/">Copyright</a></li>
+<li id="menu-item-354278" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-354278"><a rel="privacy-policy" href="https://www.arrahmah.id/pedoman-media-siber/">Pedoman Media Siber</a></li>
+</ul></div>                    </div>
+                </div>
+
+    <!-- Kolom Navigasi Tengah -->
+                <div class="jeg_nav_col jeg_nav_center  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+    <!-- Kolom Navigasi Kanan -->
+                
+                <div class="jeg_nav_col jeg_nav_right  jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+<!-- Ikon Media Sosial -->
+<div
+				class="jeg_nav_item socials_widget jeg_social_icon_block nobg">
+				<a href="https://www.whatsapp.com/channel/0029VaDtrFx3gvWc9mJ0Wt3M" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Whatsapp" class="jeg_whatsapp"><i class="fa fa-whatsapp"></i> </a><a href="https://twitter.com/arrahmah" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Twitter" class="jeg_twitter"><i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></span></i> </a><a href="https://instagram.com/beritaarrahmah" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://telegram.me/arrahmahcom" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Telegram" class="jeg_telegram"><i class="fa fa-telegram"></i> </a><a href="https://www.tiktok.com/@arrahmahinside" target='_blank' rel='external noopener nofollow'  aria-label="Find us on TikTok" class="jeg_tiktok"><span class="jeg-icon icon-tiktok"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"/></svg></span> </a><a href="https://youtube.com/@arrahmah_id" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a><a href="https://thexapp.app.link/b424V8Oo1Fb" target='_blank' rel='external noopener nofollow'  aria-label="Find us on VK" class="jeg_vk"><i class="fa fa-vk"></i> </a>			</div>
+<!-- Toggle Dark Mode -->
+<div class="jeg_nav_item jeg_dark_mode">
+                    <label class="dark_mode_switch">
+                        <input aria-label="Dark mode toogle" type="checkbox" class="jeg_dark_mode_toggle" >
+                        <span class="slider round"></span>
+                    </label>
+                 </div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div>
+    <!-- Akhir Top Bar -->
+
+    <!-- Mid Bar dengan Logo dan Pencarian -->
+<div class="jeg_midbar jeg_container jeg_navbar_wrapper normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+<!-- Kolom Kiri untuk Logo -->
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_logo jeg_desktop_logo">
+			<div class="site-title">
+			<a href="https://www.arrahmah.id/" aria-label="Visit Homepage" style="padding: 0 0 0 0;">
+				<img class='jeg_logo_img' src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png" srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x" alt="Arrahmah.id"data-light-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png" data-light-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x" data-dark-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png" data-dark-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-sw.png 2x">			</a>
+		</div>
+	</div>
+                    </div>
+                </div>
+     <!-- Kolom Tengah (Kosong) -->     
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                                            </div>
+                </div>
+
+<!-- Kolom Kanan untuk Pencarian dan Ikon Menu -->          
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignright">
+<!-- Form Pencarian -->         
+<div class="jeg_nav_item jeg_nav_search">
+	<div class="jeg_search_wrapper jeg_search_no_expand rounded">
+	    <a href="#" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+	    <form action="https://www.arrahmah.id/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- Hasil Pencarian -->
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div>	
+</div>
+</div>
+   <!-- Ikon Toggle Menu Mobile -->
+<div class="jeg_nav_item jeg_nav_icon">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle">
+    	<span></span><span></span><span></span>
+    </a>
+</div>                    </div>
+                </div>
+
+                        </div>
+<!-- Akhir Mid Bar -->
+</div>
+<!-- Akhir Header Utama -->
+</div>
+<!-- Bottom Bar dengan Menu Utama -->
+<div class="jeg_bottombar jeg_navbar jeg_container jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+<!-- Kolom Kiri untuk Menu Utama -->     
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item jeg_main_menu_wrapper">
+<!-- Item Menu dengan Megamenu -->
+<?php include 'menu.php'; ?>
+<!-- Akhir Bottom Bar -->
+    <!-- Akhir Viewport -->
+    
+<!-- Awal Kontainer Utama Newsfeed -->
+<?php $_GET['kategori_id'] = 1; include 'newsfeed.php'; ?>  
+<!-- Untuk News -->
+
+<!-- Bagian Overlay untuk Preloader -->
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+<!-- Preloader Dot -->
+<div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+<!-- Preloader Circle -->
+<div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+<!-- Preloader Square -->
+<div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+<!-- Akhir Kontainer Utama Newsfeed -->
+            </div>
+                </div></li>
+ <!-- Akhir Fragmen Kode -->             
+<li id="menu-item-452811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452811 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/rubrik/">
+Rubrik
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="28" class="active"><a href="https://www.arrahmah.id/kanal/rubrik/">
+    All
+                            </a></li>
+                        <li data-cat-id="34" class=""><a href="https://www.arrahmah.id/kanal/rubrik/artikel/">
+    Artikel
+                            </a></li><li data-cat-id="30" class=""><a href="https://www.arrahmah.id/kanal/rubrik/kisah-teladan/">
+    Kisah &amp; Teladan
+                            </a></li><li data-cat-id="35" class=""><a href="https://www.arrahmah.id/kanal/rubrik/review/">
+    Review
+                                </a></li><li data-cat-id="21754" class=""><a href="https://www.arrahmah.id/kanal/rubrik/sejarah/">
+    Sejarah
+                                </a></li>
+                    </ul>
+                </div>
+                
+<?php $_GET['kategori_id'] = 2; include 'newsfeed.php'; ?>  
+<!-- Untuk Rubrik -->
+
+<div class="newsfeed_overlay">
+<div class="preloader_type preloader_circle">
+<div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+</div>
+<div class="newsfeed_preloader jeg_preloader circle">
+<div class="jnews_preloader_circle_outer">
+<div class="jnews_preloader_circle_inner"></div>
+</div>
+</div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+
+            </div>
+                </div>
+
+                </li>
+<li id="menu-item-452805" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452805 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kajian-islam/">
+Kajian Islam
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="17" class="active"><a href="https://www.arrahmah.id/kanal/kajian-islam/">
+    All
+                            </a></li>
+                        <li data-cat-id="21986" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/akhir-zaman/">
+    Akhir Zaman
+                            </a></li><li data-cat-id="29" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/doa-dzikir/">
+    Doa &amp; Dzikir
+                            </a></li><li data-cat-id="22" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/fatwa-tanya-jawab/">
+    Fatwa &amp; Tanya Jawab
+                                </a></li><li data-cat-id="3634" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/hadits/">
+    Hadits
+                                    </a>
+                                </li><li data-cat-id="31" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/hakekat-syiah/">
+    Hakekat Syi'ah
+                                </a></li><li data-cat-id="23" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/kajian-jihad/">
+    Kajian Jihad
+                                    </a></li><li data-cat-id="7445" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/miracle-of-quran-sunnah/">
+    Miracle of Quran &amp; Sunnah
+                                        </a></li><li data-cat-id="37" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/ramadhan/">
+    Ramadhan
+                                            </a></li><li data-cat-id="20" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/sirah/">
+    Sirah Salaf
+                                                </a></li><li data-cat-id="19" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/syariah/">
+    Syariah
+                                                    </a></li><li data-cat-id="18" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/tauhid/">Tauhid</a></li><li data-cat-id="21" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/tausiyah/">
+    Tausiyah
+                                                        </a></li>
+                    </ul>
+                </div>
+<!-- Bagian Daftar Artikel Newsfeed -->
+<?php $_GET['kategori_id'] = 3; include 'newsfeed.php'; ?>  
+<!-- Untuk Kajian Islam -->
+
+<!-- Bagian Overlay Preloader -->
+<div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+<!-- Preloader Dot -->
+<div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+<!-- Preloader Circle -->
+<div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+<!-- Preloader Square -->
+<div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+    <!-- kontribusi -->
+<li id="menu-item-452807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452807 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kontribusi/">
+Kontribusi
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix">
+                        <div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="41" class="active"><a href="https://www.arrahmah.id/kanal/kontribusi/">
+    All
+                            </a></li>
+                        <li data-cat-id="42" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/citizen-journalism/">
+    Citizen Journalism
+                            </a></li><li data-cat-id="44" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/event/">
+    Event
+                                </a></li><li data-cat-id="45" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/kisah-pembaca/">
+    Kisah Pembaca
+                                </a></li><li data-cat-id="56" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/opini/">
+    Opini
+                                    </a></li><li data-cat-id="43" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/readers-voice/">
+    Reader's Voice
+                                        </a></li>
+                    </ul>
+                </div>
+                
+<?php $_GET['kategori_id'] = 4; include 'newsfeed.php'; ?>  
+<!-- Untuk Kontribusi -->
+
+<li id="menu-item-452808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452808 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/muslimah/">
+Muslimah
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="24" class="active"><a href="https://www.arrahmah.id/kanal/muslimah/">
+    All
+                            </a></li>
+                        <li data-cat-id="25" class=""><a href="https://www.arrahmah.id/kanal/muslimah/artikel-muslimah/">
+    Artikel Muslimah
+                            </a></li><li data-cat-id="25318" class=""><a href="https://www.arrahmah.id/kanal/muslimah/keluarga/">
+    Keluarga
+                                </a></li><li data-cat-id="23356" class=""><a href="https://www.arrahmah.id/kanal/muslimah/kisah-muslimah/">
+    Kisah Muslimah
+                                    </a></li><li data-cat-id="27" class=""><a href="https://www.arrahmah.id/kanal/muslimah/mujahidah/">
+    Mujahidah
+                                        </a></li><li data-cat-id="26" class=""><a href="https://www.arrahmah.id/kanal/muslimah/tarbiyatul-awlad/">
+    Tarbiyatul Awlad
+                                            </a></li>
+                    </ul>
+                </div>
+
+<?php $_GET['kategori_id'] = 5; include 'newsfeed.php'; ?>  <!-- Untuk Muslimah -->
+
+<li id="menu-item-452806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452806 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kolom/">
+Kolom
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="21966" class="active"><a href="https://www.arrahmah.id/kanal/kolom/">
+    All
+                            </a></li>
+                        <li data-cat-id="36" class=""><a href="https://www.arrahmah.id/kanal/kolom/muhammad-jibriel/">
+    Muhammad Jibriel
+                            </a></li><li data-cat-id="32" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-abu-m-jibriel/">
+    Ustadz Abu M. Jibriel
+                                </a></li><li data-cat-id="25401" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-budi-ashari/">
+    Ustadz Budi Ashari
+                                    </a></li><li data-cat-id="25326" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-farid-ahmad-okbah/">
+    Ustadz Farid Ahmad Okbah
+                                        </a></li><li data-cat-id="33" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-irfan-s-awwas/">
+    Ustadz Irfan S. Awwas</a></li>
+                    </ul>
+                </div>
+<?php $_GET['kategori_id'] = 6; include 'newsfeed.php'; ?>  <!-- Untuk Kolom -->
+    <div class="newsfeed_overlay">
+    <div class="preloader_type preloader_circle">
+    <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+    </div>
+    <div class="newsfeed_preloader jeg_preloader circle">
+    <div class="jnews_preloader_circle_outer">
+    <div class="jnews_preloader_circle_inner">
+    </div>
+    </div>
+    </div>
+    <div class="newsfeed_preloader jeg_preloader square">
+    <div class="jeg_square">
+    <div class="jeg_square_inner">
+
+    </div>
+    </div>
+    </div>
+    </div>
+    </div>
+
+    </li>
+<?php include 'newsfeed_sidebar.php'; ?>
+    <div class="newsfeed_overlay">
+    <div class="preloader_type preloader_circle">
+    <div class="newsfeed_preloader jeg_preloader dot">
+<span></span><span></span><span></span>
+    </div>
+    <div class="newsfeed_preloader jeg_preloader circle">
+    <div class="jnews_preloader_circle_outer">
+    <div class="jnews_preloader_circle_inner">
+    </div>
+    </div>
+    </div>
+    
+    <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div></div>
+                </div></li>
+<li<!-- ====== ITEM MENU "VIDEO" ====== -->
+<li id="menu-item-452819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452819 bgnav" data-item-row="default">
+    <a href="https://arrahmahvideo.com/">
+        Video
+    </a>
+</li>
+
+<!-- ====== PENUTUP MENU DAN STRUKTUR PEMBUNGKUS ====== -->
+</ul>
+</div>
+</div>
+</div>
+</div>
+
+<!-- ====== KOLOM TENGAH NAVIGASI (SAAT INI KOSONG) ====== -->
+<div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+    <div class="item_wrap jeg_nav_aligncenter">
+        <!-- Bisa diisi menu tambahan atau logo tengah jika diperlukan -->
+    </div>
+</div>
+
+<!-- ====== KOLOM KANAN NAVIGASI (SAAT INI KOSONG) ====== -->
+<div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+    <div class="item_wrap jeg_nav_alignright">
+        <!-- Bisa diisi menu tambahan seperti ikon akun, search, dsb -->
+    </div>
+</div>
+
+<!-- ====== PENUTUP STRUKTUR NAVIGASI UTAMA ====== -->
+</div>
+</div>
+</div>
+</div><!-- /.jeg_header -->
+</div>
+
+<!-- ====== HEADER STICKY (MENEMPEL SAAT SCROLL) ====== -->
+<div class="jeg_header_sticky">
+    <div class="sticky_blankspace"></div>
+    <div class="jeg_header normal">
+        <div class="jeg_container">
+            <div data-mode="fixed" class="jeg_stickybar jeg_navbar jeg_navbar_wrapper jeg_navbar_normal jeg_navbar_normal">
+                <div class="container">
+                    <div class="jeg_nav_row">
+
+<!-- ====== KOLOM KIRI HEADER STICKY: LOGO ====== -->
+                        <div class="jeg_nav_col jeg_nav_left jeg_nav_grow">
+                            <div class="item_wrap jeg_nav_alignleft">
+                                <div class="jeg_nav_item jeg_logo">
+                                    <div class="site-title">
+                                        <a href="https://www.arrahmah.id/" aria-label="Visit Homepage">
+                                            <img class='jeg_logo_img'
+                                                 src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png"
+                                                 srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x"
+                                                 alt="Arrahmah.id"
+                                                 data-light-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png"
+                                                 data-light-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x"
+                                                 data-dark-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png"
+                                                 data-dark-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-sw.png 2x">
+                                        </a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+<!-- ====== AKHIR KOLOM KIRI HEADER STICKY: LOGO ====== -->
+
+<!-- Kolom tengah dan kanan header sticky bisa ditambahkan di sini jika diperlukan -->
+
+                    </div><!-- /.jeg_nav_row -->
+                </div><!-- /.container -->
+            </div><!-- /.jeg_stickybar -->
+        </div><!-- /.jeg_container -->
+    </div><!-- /.jeg_header normal -->
+</div><!-- /.jeg_header_sticky -->
+
+<div class="jeg_nav_item jeg_main_menu_wrapper">
+<div class="jeg_mainmenu_wrap"><ul class="jeg_menu jeg_main_menu jeg_menu_style_2" data-animation="animate"><li id="menu-item-452809" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-452809 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="3" ><a href="https://www.arrahmah.id/kanal/news/">
+News
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="2" class="active"><a href="https://www.arrahmah.id/kanal/news/">
+    All
+                            </a></li>
+                        <li data-cat-id="6" class=""><a href="https://www.arrahmah.id/kanal/news/depth/">
+    Depth
+                            </a></li><li data-cat-id="23308" class=""><a href="https://www.arrahmah.id/kanal/news/editorial/">Editorial</a></li><li data-cat-id="9" class=""><a href="https://www.arrahmah.id/kanal/news/ekonomi/">
+Ekonomi
+                            </a></li><li data-cat-id="5" class=""><a href="https://www.arrahmah.id/kanal/news/feature/">Feature</a></li><li data-cat-id="48" class=""><a href="https://www.arrahmah.id/kanal/news/foto/">Foto</a></li><li data-cat-id="3" class=""><a href="https://www.arrahmah.id/kanal/news/internasional/">
+    Internasional
+                            </a></li><li data-cat-id="8" class=""><a href="https://www.arrahmah.id/kanal/news/interview/">Interview</a></li><li data-cat-id="10" class=""><a href="https://www.arrahmah.id/kanal/news/medis/">
+    Medis
+                            </a></li><li data-cat-id="4" class=""><a href="https://www.arrahmah.id/kanal/news/nasional/">Nasional</a></li><li data-cat-id="7" class=""><a href="https://www.arrahmah.id/kanal/news/teknologi/">Teknologi</a></li><li data-cat-id="49" class=""><a href="https://www.arrahmah.id/kanal/news/video/">
+    Video
+                            </a></li><li data-cat-id="4216" class=""><a href="https://www.arrahmah.id/kanal/news/weekly-report/">
+    Weekly Report
+                            </a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="2" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="739" height="415" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global" decoding="async" fetchpriority="high" sizes="(max-width: 739px) 100vw, 739px" data-attachment-id="500227" data-permalink="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/images-13-20/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-orig-size="739,415" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (13)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?w=739&amp;ssl=1 739w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/">Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="678" height="452" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="KPK Periksa Ustadz Khalid Basalamah Terkait Dugaan Korupsi Kuota Haji 2025" decoding="async" sizes="(max-width: 678px) 100vw, 678px" data-attachment-id="500224" data-permalink="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/images-12-24/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-orig-size="678,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (12)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?w=678&amp;ssl=1 678w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/">KPK Periksa Ustadz Khalid Basalamah Terkait Dugaan Korupsi Kuota Haji 2025</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="291" height="173" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran" decoding="async" data-attachment-id="500221" data-permalink="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/images-4-32/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-orig-size="291,173" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (4)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/">Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="440" height="295" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan" decoding="async" sizes="(max-width: 440px) 100vw, 440px" data-attachment-id="500218" data-permalink="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/new-project_3/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="New Project_3" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/">Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="599" height="399" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata" decoding="async" sizes="(max-width: 599px) 100vw, 599px" data-attachment-id="500215" data-permalink="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/download-67/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-orig-size="599,399" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="download (67)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?w=599&amp;ssl=1 599w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/">Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="440" height="295" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Amir Khan Muttaqi: Dunia Islam Menghadapi Ujian Bersejarah" decoding="async" sizes="(max-width: 440px) 100vw, 440px" data-attachment-id="500212" data-permalink="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/vlcsnap-2025-06-23-18h54m22s374-1/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vlcsnap-2025-06-23-18h54m22s374 (1)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/">Amir Khan Muttaqi: Dunia Islam Menghadapi Ujian Bersejarah</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="“Israel” Kehilangan Nyawa dalam Serangan Terakhir Iran Sebelum Gencatan Senjata" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="500208" data-permalink="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/afp_685a307e9372-1750741118/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="afp_685a307e9372-1750741118" data-image-description="" data-image-caption="&lt;p&gt;Tim penyelamat “Israel” bekerja di sebuah bangunan yang menjadi sasaran serangan Iran di kawasan Beersheba. (AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/">“Israel” Kehilangan Nyawa dalam Serangan Terakhir Iran Sebelum Gencatan Senjata</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="393" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Felix Siauw Soroti Peran Iran dan Kelompok Non-Muslim dalam Isu Palestina: Saya Malu, Tapi Tetap Tidak Sepakat" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="500204" data-permalink="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/banser-felix-siauw/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-orig-size="700,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="banser-felix-siauw" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/">Felix Siauw Soroti Peran Iran dan Kelompok Non-Muslim dalam Isu Palestina: Saya Malu, Tapi Tetap Tidak Sepakat</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Jebakan Gaza, Perlawanan Gempur Zionis dengan Taktik Baru yang Bikin Kocar-kacir" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="500183" data-permalink="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/perlawanan4/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="perlawanan4" data-image-description="" data-image-caption="&lt;p&gt;Kelompok perlawanan kini bersiap untuk menyerang sekelompok tentara yang melakukan penyergapan untuk mendapatkan amunisi (media sosial)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/">Jebakan Gaza, Perlawanan Gempur Zionis dengan Taktik Baru yang Bikin Kocar-kacir</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<li id="menu-item-452811" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452811 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/rubrik/">
+Rubrik
+    </a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="28" class="active"><a href="https://www.arrahmah.id/kanal/rubrik/">All</a></li>
+                        <li data-cat-id="34" class=""><a href="https://www.arrahmah.id/kanal/rubrik/artikel/">
+    Artikel
+                            </a></li><li data-cat-id="30" class=""><a href="https://www.arrahmah.id/kanal/rubrik/kisah-teladan/">
+    Kisah &amp; Teladan
+                                </a></li><li data-cat-id="35" class=""><a href="https://www.arrahmah.id/kanal/rubrik/review/">Review</a></li><li data-cat-id="21754" class=""><a href="https://www.arrahmah.id/kanal/rubrik/sejarah/">
+    Sejarah
+                                    </a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="28" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Serangan Amerika terhadap Iran: Apakah &#8220;Israel&#8221; Memenangkan Pertempuran?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="500063" data-permalink="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/afp_68571173cc2b-1750536563/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="afp_68571173cc2b-1750536563" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/">Serangan Amerika terhadap Iran: Apakah &#8220;Israel&#8221; Memenangkan Pertempuran?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/bagaimana-netanyahu-merencanakan-dominasi-timur-tengah-melalui-serangan-ke-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Bagaimana Netanyahu Merencanakan Dominasi Timur Tengah Melalui Serangan ke Iran?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="499891" data-permalink="https://www.arrahmah.id/bagaimana-netanyahu-merencanakan-dominasi-timur-tengah-melalui-serangan-ke-iran/ge2-1-1745132326/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ge2-1-1745132326" data-image-description="" data-image-caption="&lt;p&gt;Perdana Menteri &#8220;Israel&#8221; Benjamin Netanyahu (Getty)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ge2-1-1745132326.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/bagaimana-netanyahu-merencanakan-dominasi-timur-tengah-melalui-serangan-ke-iran/">Bagaimana Netanyahu Merencanakan Dominasi Timur Tengah Melalui Serangan ke Iran?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/b-2-spirit-bom-siluman-amerika-yang-diandalkan-israel-hantam-nuklir-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="B-2 Spirit: Bom Siluman Amerika yang Diandalkan “Israel” Hantam Nuklir Iran" decoding="async" data-attachment-id="499843" data-permalink="https://www.arrahmah.id/b-2-spirit-bom-siluman-amerika-yang-diandalkan-israel-hantam-nuklir-iran/%d9%8a%d8%b3-4-1747113370/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/%D9%8A%D8%B3-4-1747113370.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="يس-4-1747113370" data-image-description="" data-image-caption="&lt;p&gt;Pengebom B-2 mengandalkan desain sayap khas untuk mengacaukan radar musuh (Reuters).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/%D9%8A%D8%B3-4-1747113370.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/%D9%8A%D8%B3-4-1747113370.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/%D9%8A%D8%B3-4-1747113370.webp?fit=770%2C513&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/b-2-spirit-bom-siluman-amerika-yang-diandalkan-israel-hantam-nuklir-iran/">B-2 Spirit: Bom Siluman Amerika yang Diandalkan “Israel” Hantam Nuklir Iran</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/menyamar-sebagai-muslimah-wanita-yahudi-ini-bongkar-jantung-propaganda-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1366" height="768" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Menyamar sebagai Muslimah, Wanita Yahudi Ini Bongkar Jantung Propaganda Iran" decoding="async" sizes="(max-width: 1366px) 100vw, 1366px" data-attachment-id="499833" data-permalink="https://www.arrahmah.id/menyamar-sebagai-muslimah-wanita-yahudi-ini-bongkar-jantung-propaganda-iran/untitled-design-1-2/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?fit=1366%2C768&amp;ssl=1" data-orig-size="1366,768" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Untitled-design-1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?fit=1366%2C768&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?w=1366&amp;ssl=1 1366w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?resize=750%2C422&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Untitled-design-1-1.webp?resize=1140%2C641&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/menyamar-sebagai-muslimah-wanita-yahudi-ini-bongkar-jantung-propaganda-iran/">Menyamar sebagai Muslimah, Wanita Yahudi Ini Bongkar Jantung Propaganda Iran</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/apakah-israel-benar-benar-mampu-menghancurkan-program-nuklir-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Apakah &#8220;Israel&#8221; Benar-Benar Mampu Menghancurkan Program Nuklir Iran?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="499504" data-permalink="https://www.arrahmah.id/apakah-israel-benar-benar-mampu-menghancurkan-program-nuklir-iran/ap_684c2b15d833f-1749822229/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ap_684c2b15d833f-1749822229" data-image-description="" data-image-caption="&lt;p&gt;Program nuklir Iran tersebar di jaringan luas fasilitas yang terpencar secara geografis. (Associated Press)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ap_684c2b15d833f-1749822229.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/apakah-israel-benar-benar-mampu-menghancurkan-program-nuklir-iran/">Apakah &#8220;Israel&#8221; Benar-Benar Mampu Menghancurkan Program Nuklir Iran?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/operasi-rahasia-israel-bagaimana-mereka-menembus-jantung-pertahanan-iran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Operasi Rahasia ‘Israel’: Bagaimana Mereka Menembus Jantung Pertahanan Iran?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="499346" data-permalink="https://www.arrahmah.id/operasi-rahasia-israel-bagaimana-mereka-menembus-jantung-pertahanan-iran/iran10-1749793193/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="iran10-1749793193" data-image-description="" data-image-caption="&lt;p&gt;Sumber-sumber keamanan “Israel” mengatakan bahwa drone-drone tersebut telah memasuki Iran sejak lama sebelum serangan dilancarkan (Reuters).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/iran10-1749793193.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/operasi-rahasia-israel-bagaimana-mereka-menembus-jantung-pertahanan-iran/">Operasi Rahasia ‘Israel’: Bagaimana Mereka Menembus Jantung Pertahanan Iran?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/hendak-hapus-jejak-palestina-buldozer-israel-tak-henti-gempur-tulkarem/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Hendak Hapus Jejak Palestina, Buldozer &#8216;Israel&#8217; Tak Henti Gempur Tulkarem" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="499306" data-permalink="https://www.arrahmah.id/hendak-hapus-jejak-palestina-buldozer-israel-tak-henti-gempur-tulkarem/tulkarem-17/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="tulkarem" data-image-description="" data-image-caption="&lt;p&gt;Buldoser pendudukan telah menghancurkan rumah warga di kamp Tulkarm selama lima hari terakhir (media sosial)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/tulkarem.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/hendak-hapus-jejak-palestina-buldozer-israel-tak-henti-gempur-tulkarem/">Hendak Hapus Jejak Palestina, Buldozer &#8216;Israel&#8217; Tak Henti Gempur Tulkarem</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/drone-mematikan-ubah-wajah-perang-modern/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Drone Mematikan Ubah Wajah Perang Modern" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="499085" data-permalink="https://www.arrahmah.id/drone-mematikan-ubah-wajah-perang-modern/31854657-1692510311/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="31854657-1692510311" data-image-description="" data-image-caption="&lt;p&gt;Sebuah drone milik militer Ukraina berada di garis depan pertempuran (Anadolu).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/31854657-1692510311.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/drone-mematikan-ubah-wajah-perang-modern/">Drone Mematikan Ubah Wajah Perang Modern</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1536" height="1024" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Two state solution bukan solusi (foto A I: Arrahmah.id)" decoding="async" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="498864" data-permalink="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/file_000000002c0861f7a4927629650655f3/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1536%2C1024&amp;ssl=1" data-orig-size="1536,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="file_000000002c0861f7a4927629650655f3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1024%2C683&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1536%2C1024&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?w=1536&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=750%2C500&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=1140%2C760&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/">Solusi Dua Negara, Melegalkan Penjajahan atas Palestina</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<!-- Kajian Islam -->
+<li id="menu-item-452805" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452805 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kajian-islam/">Kajian Islam</a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="17" class="active"><a href="https://www.arrahmah.id/kanal/kajian-islam/">All</a></li>
+                        <li data-cat-id="21986" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/akhir-zaman/">Akhir Zaman</a></li><li data-cat-id="29" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/doa-dzikir/">Doa &amp; Dzikir</a></li><li data-cat-id="22" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/fatwa-tanya-jawab/">Fatwa &amp; Tanya Jawab</a></li><li data-cat-id="3634" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/hadits/">Hadits</a></li><li data-cat-id="31" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/hakekat-syiah/">Hakekat Syi'ah</a></li><li data-cat-id="23" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/kajian-jihad/">Kajian Jihad</a></li><li data-cat-id="7445" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/miracle-of-quran-sunnah/">Miracle of Quran &amp; Sunnah</a></li><li data-cat-id="37" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/ramadhan/">Ramadhan</a></li><li data-cat-id="20" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/sirah/">Sirah Salaf</a></li><li data-cat-id="19" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/syariah/">Syariah</a></li><li data-cat-id="18" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/tauhid/">Tauhid</a></li><li data-cat-id="21" class=""><a href="https://www.arrahmah.id/kanal/kajian-islam/tausiyah/">Tausiyah</a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="17" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pembebasan-damaskus-pertanda-dekatnya-pembebasan-baitulmaqdis-dan-masjid-al-aqsha-yang-mulia/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1200" height="676" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pembebasan Damaskus: Pertanda Dekatnya Pembebasan Baitulmaqdis dan Masjid Al-Aqsha yang Mulia" decoding="async" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="495878" data-permalink="https://www.arrahmah.id/pembebasan-damaskus-pertanda-dekatnya-pembebasan-baitulmaqdis-dan-masjid-al-aqsha-yang-mulia/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?fit=1200%2C676&amp;ssl=1" data-orig-size="1200,676" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?fit=1024%2C577&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?fit=1200%2C676&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?resize=750%2C423&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/67185a25448f59b7f39f7114_pesona-dome-of-the-rock-yang-sering-dikira-masjid-al-aqsa-8_169.jpeg?resize=1140%2C642&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/pembebasan-damaskus-pertanda-dekatnya-pembebasan-baitulmaqdis-dan-masjid-al-aqsha-yang-mulia/">Pembebasan Damaskus: Pertanda Dekatnya Pembebasan Baitulmaqdis dan Masjid Al-Aqsha yang Mulia</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/palestina-tak-bisa-dibeli-kembali-dengan-darah-setelah-dijual-dengan-uang/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="400" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Palestina Tak Bisa Dibeli Kembali dengan Darah Setelah Dijual dengan Uang" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="494849" data-permalink="https://www.arrahmah.id/palestina-tak-bisa-dibeli-kembali-dengan-darah-setelah-dijual-dengan-uang/5yhsw7vwn9c81/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?fit=700%2C400&amp;ssl=1" data-orig-size="700,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="5yhsw7vwn9c81" data-image-description="" data-image-caption="&lt;p&gt;Syaikh Abdul Aziz Ath-Tharifi&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?fit=300%2C171&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?fit=700%2C400&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?fit=700%2C400&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/04/5yhsw7vwn9c81.jpg?resize=300%2C171&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/palestina-tak-bisa-dibeli-kembali-dengan-darah-setelah-dijual-dengan-uang/">Palestina Tak Bisa Dibeli Kembali dengan Darah Setelah Dijual dengan Uang</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/toko-toko-kue-di-herat-berkembang-selama-ramadhan-meskipun-ada-kesulitan-ekonomi/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="440" height="295" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Toko-toko Kue di Herat Berkembang Selama Ramadhan, Meskipun Ada Kesulitan Ekonomi" decoding="async" sizes="(max-width: 440px) 100vw, 440px" data-attachment-id="493073" data-permalink="https://www.arrahmah.id/toko-toko-kue-di-herat-berkembang-selama-ramadhan-meskipun-ada-kesulitan-ekonomi/vlcsnap-2025-03-16-07h51m45s766/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vlcsnap-2025-03-16-07h51m45s766" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/vlcsnap-2025-03-16-07h51m45s766.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/toko-toko-kue-di-herat-berkembang-selama-ramadhan-meskipun-ada-kesulitan-ekonomi/">Toko-toko Kue di Herat Berkembang Selama Ramadhan, Meskipun Ada Kesulitan Ekonomi</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/ramadhan-2025-negara-mana-yang-paling-banyak-menanam-kurma/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1280" height="720" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Ramadhan 2025, Negara Mana yang Paling Banyak Menanam Kurma?" decoding="async" sizes="(max-width: 1280px) 100vw, 1280px" data-attachment-id="492797" data-permalink="https://www.arrahmah.id/ramadhan-2025-negara-mana-yang-paling-banyak-menanam-kurma/10-worlds-largest-producers-of-dates-palm/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="10 World&#8217;s Largest Producers of Dates Palm" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Net)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?fit=1280%2C720&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?resize=750%2C422&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/10-Worlds-Largest-Producers-of-Dates-Palm.jpg?resize=1140%2C641&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/ramadhan-2025-negara-mana-yang-paling-banyak-menanam-kurma/">Ramadhan 2025, Negara Mana yang Paling Banyak Menanam Kurma?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/rahasia-sehat-berbuka-puasa-mengapa-harus-dimulai-dengan-kurma-dan-air/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Rahasia Sehat Berbuka Puasa: Mengapa Harus Dimulai dengan Kurma dan Air?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="492645" data-permalink="https://www.arrahmah.id/rahasia-sehat-berbuka-puasa-mengapa-harus-dimulai-dengan-kurma-dan-air/gettyimages-1136179735-1741591423/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="GettyImages-1136179735-1741591423" data-image-description="" data-image-caption="&lt;p&gt;Kurma merupakan sumber zat besi yang kaya, suatu elemen penting terutama bagi mereka yang mengalami kekurangan zat ini (Getty).&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/GettyImages-1136179735-1741591423.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/rahasia-sehat-berbuka-puasa-mengapa-harus-dimulai-dengan-kurma-dan-air/">Rahasia Sehat Berbuka Puasa: Mengapa Harus Dimulai dengan Kurma dan Air?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/cegah-kriminal-dan-tawuran-pemkot-padang-larang-anak-di-bawah-umur-keluyuran-setelah-tarawih/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="768" height="515" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Cegah Kriminal dan Tawuran, Pemkot Padang Larang Anak di Bawah Umur Keluyuran Setelah Tarawih" decoding="async" sizes="(max-width: 768px) 100vw, 768px" data-attachment-id="492180" data-permalink="https://www.arrahmah.id/cegah-kriminal-dan-tawuran-pemkot-padang-larang-anak-di-bawah-umur-keluyuran-setelah-tarawih/fa-577989473/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?fit=768%2C515&amp;ssl=1" data-orig-size="768,515" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="FA-577989473" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?fit=768%2C515&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?fit=768%2C515&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?w=768&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?resize=300%2C201&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/FA-577989473.jpg?resize=750%2C503&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/cegah-kriminal-dan-tawuran-pemkot-padang-larang-anak-di-bawah-umur-keluyuran-setelah-tarawih/">Cegah Kriminal dan Tawuran, Pemkot Padang Larang Anak di Bawah Umur Keluyuran Setelah Tarawih</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/gaza-kembali-bertemu-ramadhan-di-tengah-puing-puing-kehancuran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="900" height="600" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Gaza Kembali Bertemu Ramadhan di tengah Puing-puing Kehancuran" decoding="async" sizes="(max-width: 900px) 100vw, 900px" data-attachment-id="492000" data-permalink="https://www.arrahmah.id/gaza-kembali-bertemu-ramadhan-di-tengah-puing-puing-kehancuran/palestinian-religion-islam-ramadan-war-israel_1740867072/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?fit=900%2C600&amp;ssl=1" data-orig-size="900,600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?fit=900%2C600&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?fit=900%2C600&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?w=900&amp;ssl=1 900w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/PALESTINIAN-RELIGION-ISLAM-RAMADAN-WAR-ISRAEL_1740867072.jpg?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/gaza-kembali-bertemu-ramadhan-di-tengah-puing-puing-kehancuran/">Gaza Kembali Bertemu Ramadhan di tengah Puing-puing Kehancuran</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="730" height="410" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Syekh Abdur Rasyid Shufi: Al-Qur’an, Investasi Terbesar untuk Anak yang Mengantarkan ke Surga!" decoding="async" sizes="(max-width: 730px) 100vw, 730px" data-attachment-id="491982" data-permalink="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/image-1740865513/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-orig-size="730,410" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-1740865513" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?w=730&amp;ssl=1 730w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/">Syekh Abdur Rasyid Shufi: Al-Qur’an, Investasi Terbesar untuk Anak yang Mengantarkan ke Surga!</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/masjid-istiqlal-sediakan-4-000-makanan-gratis-setiap-hari-untuk-sahur-dan-berbuka/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="678" height="452" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Masjid Istiqlal Sediakan 4.000 Makanan Gratis Setiap Hari untuk Sahur dan Berbuka" decoding="async" sizes="(max-width: 678px) 100vw, 678px" data-attachment-id="491957" data-permalink="https://www.arrahmah.id/masjid-istiqlal-sediakan-4-000-makanan-gratis-setiap-hari-untuk-sahur-dan-berbuka/images-10-30/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?fit=678%2C452&amp;ssl=1" data-orig-size="678,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (10) (30)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?fit=678%2C452&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?fit=678%2C452&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?w=678&amp;ssl=1 678w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/images-10-30.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/masjid-istiqlal-sediakan-4-000-makanan-gratis-setiap-hari-untuk-sahur-dan-berbuka/">Masjid Istiqlal Sediakan 4.000 Makanan Gratis Setiap Hari untuk Sahur dan Berbuka</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<!-- Kontribusi-->
+<li id="menu-item-452807" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452807 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kontribusi/">Kontribusi</a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="41" class="active"><a href="https://www.arrahmah.id/kanal/kontribusi/">All</a></li>
+                        <li data-cat-id="42" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/citizen-journalism/">Citizen Journalism</a></li><li data-cat-id="44" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/event/">Event</a></li><li data-cat-id="45" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/kisah-pembaca/">Kisah Pembaca</a></li><li data-cat-id="56" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/opini/">Opini</a></li><li data-cat-id="43" class=""><a href="https://www.arrahmah.id/kanal/kontribusi/readers-voice/">Reader's Voice</a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="41" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Serangan Amerika terhadap Iran: Apakah &#8220;Israel&#8221; Memenangkan Pertempuran?" decoding="async" sizes="(max-width: 770px) 100vw, 770px" data-attachment-id="500063" data-permalink="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/afp_68571173cc2b-1750536563/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="afp_68571173cc2b-1750536563" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_68571173cc2b-1750536563.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/serangan-amerika-terhadap-iran-apakah-israel-memenangkan-pertempuran/">Serangan Amerika terhadap Iran: Apakah &#8220;Israel&#8221; Memenangkan Pertempuran?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/konflik-wilayah-di-tengah-sistem-yang-rapuh/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="393" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Konflik Wilayah di Tengah Sistem yang Rapuh" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="500056" data-permalink="https://www.arrahmah.id/konflik-wilayah-di-tengah-sistem-yang-rapuh/ilustrasi-4-pulau-masuk-sumut/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?fit=700%2C393&amp;ssl=1" data-orig-size="700,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ilustrasi-4-pulau-masuk-Sumut" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi empat pulau yang dahulunya berada di wilayah Aceh Singkil kini masuk ke Sumatera Utara dan jadi perebutan.  (Foto: Tribun-medan.com)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?fit=700%2C393&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?fit=700%2C393&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/ilustrasi-4-pulau-masuk-Sumut.jpg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/konflik-wilayah-di-tengah-sistem-yang-rapuh/">Konflik Wilayah di Tengah Sistem yang Rapuh</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/tata-kelola-listrik-dalam-sistem-islam/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1200" height="800" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Tata Kelola Listrik dalam Sistem Islam" decoding="async" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="499824" data-permalink="https://www.arrahmah.id/tata-kelola-listrik-dalam-sistem-islam/65b723cbe2a86/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?fit=1200%2C800&amp;ssl=1" data-orig-size="1200,800" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="65b723cbe2a86" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi. (Foto: Net)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?fit=1024%2C683&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?fit=1200%2C800&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?resize=750%2C500&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/65b723cbe2a86.jpg?resize=1140%2C760&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/tata-kelola-listrik-dalam-sistem-islam/">Tata Kelola Listrik dalam Sistem Islam</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/patutkah-memuliakan-negara-pembenci-islam/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1000" height="667" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Patutkah Memuliakan Negara Pembenci Islam?" decoding="async" sizes="(max-width: 1000px) 100vw, 1000px" data-attachment-id="499559" data-permalink="https://www.arrahmah.id/patutkah-memuliakan-negara-pembenci-islam/marcon/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?fit=1000%2C667&amp;ssl=1" data-orig-size="1000,667" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="marcon-" data-image-description="" data-image-caption="&lt;p&gt;Presiden Prancis Emmanuel Macron dan Presiden Prabowo. (Foto: Antara)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?fit=1000%2C667&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?fit=1000%2C667&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?w=1000&amp;ssl=1 1000w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/marcon-.jpg?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/patutkah-memuliakan-negara-pembenci-islam/">Patutkah Memuliakan Negara Pembenci Islam?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/mendidik-generasi-muda-tantangan-dan-solusi-di-era-kapitalisme/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="410" height="309" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Mendidik Generasi Muda: Tantangan dan Solusi di Era Kapitalisme" decoding="async" sizes="(max-width: 410px) 100vw, 410px" data-attachment-id="499329" data-permalink="https://www.arrahmah.id/mendidik-generasi-muda-tantangan-dan-solusi-di-era-kapitalisme/mahalnya-kuliah-668da673ed64157ca0410e12/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?fit=410%2C309&amp;ssl=1" data-orig-size="410,309" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="mahalnya-kuliah-668da673ed64157ca0410e12" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi beban berat biaya kuliah (sumber: digo.id) &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?fit=410%2C309&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?fit=410%2C309&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?w=410&amp;ssl=1 410w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/mahalnya-kuliah-668da673ed64157ca0410e12.jpeg?resize=300%2C226&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/mendidik-generasi-muda-tantangan-dan-solusi-di-era-kapitalisme/">Mendidik Generasi Muda: Tantangan dan Solusi di Era Kapitalisme</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/inses-subur-dalam-sistem-kufur/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="600" height="337" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Inses Subur dalam Sistem Kufur" decoding="async" sizes="(max-width: 600px) 100vw, 600px" data-attachment-id="498923" data-permalink="https://www.arrahmah.id/inses-subur-dalam-sistem-kufur/7686def8-35de-4305-af16-1b959e5b8c84_169/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?fit=600%2C337&amp;ssl=1" data-orig-size="600,337" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="7686def8-35de-4305-af16-1b959e5b8c84_169" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi Fokus Inses. (Andhika Akbarayansyah/detikcom)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?fit=600%2C337&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?fit=600%2C337&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?w=600&amp;ssl=1 600w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/7686def8-35de-4305-af16-1b959e5b8c84_169.jpeg?resize=300%2C169&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/inses-subur-dalam-sistem-kufur/">Inses Subur dalam Sistem Kufur</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pendidikan-karakter-bukan-solusi-maraknya-aksi-premanisme/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="393" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pendidikan Karakter bukan Solusi Maraknya Aksi Premanisme" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="498920" data-permalink="https://www.arrahmah.id/pendidikan-karakter-bukan-solusi-maraknya-aksi-premanisme/preman-di-bogor-tampang-preman-berkedok/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?fit=700%2C393&amp;ssl=1" data-orig-size="700,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="PREMAN-DI-BOGOR-Tampang-preman-berkedok" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi penangkapan preman. (Foto: TribunnewsBogor.com/Muamarrudin Irfani)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?fit=700%2C393&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?fit=700%2C393&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/PREMAN-DI-BOGOR-Tampang-preman-berkedok.jpg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/pendidikan-karakter-bukan-solusi-maraknya-aksi-premanisme/">Pendidikan Karakter bukan Solusi Maraknya Aksi Premanisme</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pemutihan-pajak-hiburan-semu-bagi-rakyat/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1200" height="676" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pemutihan Pajak, Hiburan Semu bagi Rakyat" decoding="async" sizes="(max-width: 1200px) 100vw, 1200px" data-attachment-id="498917" data-permalink="https://www.arrahmah.id/pemutihan-pajak-hiburan-semu-bagi-rakyat/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?fit=1200%2C676&amp;ssl=1" data-orig-size="1200,676" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169" data-image-description="" data-image-caption="&lt;p&gt;(Foto: ANTARA /Makna Zaezar)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?fit=1024%2C577&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?fit=1200%2C676&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?w=1200&amp;ssl=1 1200w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?resize=1024%2C577&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?resize=768%2C433&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?resize=750%2C423&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/giliran-warga-jateng-serbu-samsat-nikmati-pemutihan-pajak-kendaraan-1745300999898_169.jpeg?resize=1140%2C642&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/pemutihan-pajak-hiburan-semu-bagi-rakyat/">Pemutihan Pajak, Hiburan Semu bagi Rakyat</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="1536" height="1024" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Two state solution bukan solusi (foto A I: Arrahmah.id)" decoding="async" sizes="(max-width: 1536px) 100vw, 1536px" data-attachment-id="498864" data-permalink="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/file_000000002c0861f7a4927629650655f3/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1536%2C1024&amp;ssl=1" data-orig-size="1536,1024" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="file_000000002c0861f7a4927629650655f3" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1024%2C683&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?fit=1536%2C1024&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?w=1536&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=1024%2C683&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=750%2C500&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/file_000000002c0861f7a4927629650655f3.png?resize=1140%2C760&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/solusi-dua-negara-melegalkan-penjajahan-atas-palestina/">Solusi Dua Negara, Melegalkan Penjajahan atas Palestina</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<li id="menu-item-452808" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452808 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/muslimah/">Muslimah</a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="24" class="active"><a href="https://www.arrahmah.id/kanal/muslimah/">All</a></li>
+                        <li data-cat-id="25" class=""><a href="https://www.arrahmah.id/kanal/muslimah/artikel-muslimah/">Artikel Muslimah</a></li><li data-cat-id="25318" class=""><a href="https://www.arrahmah.id/kanal/muslimah/keluarga/">Keluarga</a></li><li data-cat-id="23356" class=""><a href="https://www.arrahmah.id/kanal/muslimah/kisah-muslimah/">Kisah Muslimah</a></li><li data-cat-id="27" class=""><a href="https://www.arrahmah.id/kanal/muslimah/mujahidah/">Mujahidah</a></li><li data-cat-id="26" class=""><a href="https://www.arrahmah.id/kanal/muslimah/tarbiyatul-awlad/">Tarbiyatul Awlad</a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="24" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="730" height="410" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Syekh Abdur Rasyid Shufi: Al-Qur’an, Investasi Terbesar untuk Anak yang Mengantarkan ke Surga!" decoding="async" sizes="(max-width: 730px) 100vw, 730px" data-attachment-id="491982" data-permalink="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/image-1740865513/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-orig-size="730,410" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="image-1740865513" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?fit=730%2C410&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?w=730&amp;ssl=1 730w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/03/image-1740865513.webp?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/syekh-abdur-rasyid-shufi-al-quran-investasi-terbesar-untuk-anak-yang-mengantarkan-ke-surga/">Syekh Abdur Rasyid Shufi: Al-Qur’an, Investasi Terbesar untuk Anak yang Mengantarkan ke Surga!</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/seri-pendidikan-anak-bagian-2-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="466" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Seri Pendidikan Anak (Bagian 2), Disarikan dari Kajian yang Membedah Kitab Athfaalul Muslimin Kaifa Rabbahum an Nabiyyul Amin" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="490140" data-permalink="https://www.arrahmah.id/seri-pendidikan-anak-bagian-2-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/halaqah-quran-gaza/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?fit=700%2C466&amp;ssl=1" data-orig-size="700,466" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="halaqah-quran-gaza" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi halaqah Qur&#8217;an anak-anak Muslim. (Foto: Net)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?fit=700%2C466&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?fit=700%2C466&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/02/halaqah-quran-gaza.jpg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/seri-pendidikan-anak-bagian-2-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/">Seri Pendidikan Anak (Bagian 2), Disarikan dari Kajian yang Membedah Kitab Athfaalul Muslimin Kaifa Rabbahum an Nabiyyul Amin</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/seri-pendidikan-anak-bagian-1-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="800" height="495" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Seri Pendidikan Anak (Bagian 1), Disarikan dari Kajian yang Membedah Kitab Athfaalul Muslimin Kaifa Rabbahum an Nabiyyul Amin" decoding="async" sizes="(max-width: 800px) 100vw, 800px" data-attachment-id="479256" data-permalink="https://www.arrahmah.id/seri-pendidikan-anak-bagian-1-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-kjhvhlbev1/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?fit=800%2C495&amp;ssl=1" data-orig-size="800,495" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;1&quot;}" data-image-title="ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasi. (Foto: Aquila Style)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?fit=300%2C186&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?fit=800%2C495&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?fit=800%2C495&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?w=800&amp;ssl=1 800w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?resize=300%2C186&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?resize=768%2C475&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/09/ini-keistimewaan-ibu-dalam-islam-yang-perlu-kamu-tahu-KJHVHlbev1.jpg?resize=750%2C464&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/seri-pendidikan-anak-bagian-1-disarikan-dari-kajian-yang-membedah-kitab-athfaalul-muslimin-kaifa-rabbahum-an-nabiyyul-amin/">Seri Pendidikan Anak (Bagian 1), Disarikan dari Kajian yang Membedah Kitab Athfaalul Muslimin Kaifa Rabbahum an Nabiyyul Amin</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/anak-anak-memperhatikan-setiap-tingkah-laku-kita/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1772" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Anak-anak Memperhatikan Setiap Tingkah Laku kita" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="442743" data-permalink="https://www.arrahmah.id/anak-anak-memperhatikan-setiap-tingkah-laku-kita/robert-collins-tvc5imo5pxk-unsplash/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?fit=2560%2C1772&amp;ssl=1" data-orig-size="2560,1772" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="robert-collins-tvc5imO5pXk-unsplash" data-image-description="" data-image-caption="&lt;p&gt;(Robert Collins/Unsplash)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?fit=300%2C208&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?fit=1024%2C709&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?fit=2560%2C1772&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?resize=300%2C208&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?resize=1024%2C709&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?resize=768%2C532&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?resize=1536%2C1063&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/03/robert-collins-tvc5imO5pXk-unsplash-scaled.jpg?resize=2048%2C1418&amp;ssl=1 2048w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/anak-anak-memperhatikan-setiap-tingkah-laku-kita/">Anak-anak Memperhatikan Setiap Tingkah Laku kita</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/karakter-wanita-salehah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="660" height="330" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Karakter Wanita Salehah" decoding="async" data-attachment-id="436485" data-permalink="https://www.arrahmah.id/karakter-wanita-salehah/ilustrasi-wanita-salehah/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/Ilustrasi-Wanita-Salehah.jpg?fit=660%2C330&amp;ssl=1" data-orig-size="660,330" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ilustrasi-Wanita-Salehah" data-image-description="" data-image-caption="&lt;p&gt;Ilustrasis wanita salehah. (Foto: Internet)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/Ilustrasi-Wanita-Salehah.jpg?fit=300%2C150&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/Ilustrasi-Wanita-Salehah.jpg?fit=660%2C330&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/Ilustrasi-Wanita-Salehah.jpg?fit=660%2C330&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/karakter-wanita-salehah/">Karakter Wanita Salehah</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/membantu-kedua-orang-tua-apakah-kewajiban-anak-laki-laki-atau-anak-perempuan/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="700" height="400" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Membantu Kedua Orang Tua, Apakah Kewajiban Anak Laki-laki atau Anak Perempuan?" decoding="async" sizes="(max-width: 700px) 100vw, 700px" data-attachment-id="455669" data-permalink="https://www.arrahmah.id/membantu-kedua-orang-tua-apakah-kewajiban-anak-laki-laki-atau-anak-perempuan/ibu-bapa/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?fit=700%2C400&amp;ssl=1" data-orig-size="700,400" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="ibu-bapa" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?fit=300%2C171&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?fit=700%2C400&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?fit=700%2C400&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/ibu-bapa.jpg?resize=300%2C171&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/membantu-kedua-orang-tua-apakah-kewajiban-anak-laki-laki-atau-anak-perempuan/">Membantu Kedua Orang Tua, Apakah Kewajiban Anak Laki-laki atau Anak Perempuan?</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/hikmah-pernikahan-nabi-sallallahu-alaihi-wa-sallam-meskipun-perbedaan-umur/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="800" height="420" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Hikmah Pernikahan Nabi shallallahu alaihi wa sallam Meskipun Perbedaan Umur" decoding="async" data-attachment-id="432469" data-permalink="https://www.arrahmah.id/hikmah-pernikahan-nabi-sallallahu-alaihi-wa-sallam-meskipun-perbedaan-umur/pernikahan-nabi/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/pernikahan-nabi.jpg?fit=800%2C420&amp;ssl=1" data-orig-size="800,420" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="pernikahan nabi" data-image-description="" data-image-caption="&lt;p&gt;ilustrasi pernikahan&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/pernikahan-nabi.jpg?fit=300%2C158&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/pernikahan-nabi.jpg?fit=800%2C420&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/pernikahan-nabi.jpg?fit=800%2C420&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/hikmah-pernikahan-nabi-sallallahu-alaihi-wa-sallam-meskipun-perbedaan-umur/">Hikmah Pernikahan Nabi shallallahu alaihi wa sallam Meskipun Perbedaan Umur</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/hukum-wanita-mengenakan-barukah-sanggul/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="670" height="505" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Hukum Wanita Mengenakan Barukah (Sanggul)" decoding="async" data-attachment-id="432036" data-permalink="https://www.arrahmah.id/hukum-wanita-mengenakan-barukah-sanggul/sanggul-rambut/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/sanggul-rambut.jpg?fit=670%2C505&amp;ssl=1" data-orig-size="670,505" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="sanggul-rambut" data-image-description="" data-image-caption="&lt;p&gt;ilustrasi&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/sanggul-rambut.jpg?fit=300%2C226&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/sanggul-rambut.jpg?fit=670%2C505&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/10/sanggul-rambut.jpg?fit=670%2C505&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/hukum-wanita-mengenakan-barukah-sanggul/">Hukum Wanita Mengenakan Barukah (Sanggul)</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/keharmonisan-rumah-tangga-rasulullah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1600" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Keharmonisan Rumah Tangga Rasulullah" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="423853" data-permalink="https://www.arrahmah.id/keharmonisan-rumah-tangga-rasulullah/uwp1520129/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?fit=2560%2C1600&amp;ssl=1" data-orig-size="2560,1600" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="uwp1520129" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?fit=300%2C188&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?fit=1024%2C640&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?fit=2560%2C1600&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/03/uwp1520129.jpeg?w=2000&amp;ssl=1 2000w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/keharmonisan-rumah-tangga-rasulullah/">Keharmonisan Rumah Tangga Rasulullah</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<li id="menu-item-452806" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452806 bgnav jeg_megamenu category_2" data-number="9"  data-item-row="5" ><a href="https://www.arrahmah.id/kanal/kolom/">Kolom</a><div class="sub-menu">
+                    <div class="jeg_newsfeed style2 clearfix"><div class="jeg_newsfeed_subcat">
+                    <ul class="jeg_subcat_item">
+                        <li data-cat-id="21966" class="active"><a href="https://www.arrahmah.id/kanal/kolom/">All</a></li>
+                        <li data-cat-id="36" class=""><a href="https://www.arrahmah.id/kanal/kolom/muhammad-jibriel/">Muhammad Jibriel</a></li><li data-cat-id="32" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-abu-m-jibriel/">Ustadz Abu M. Jibriel</a></li><li data-cat-id="25401" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-budi-ashari/">Ustadz Budi Ashari</a></li><li data-cat-id="25326" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-farid-ahmad-okbah/">Ustadz Farid Ahmad Okbah</a></li><li data-cat-id="33" class=""><a href="https://www.arrahmah.id/kanal/kolom/ustadz-irfan-s-awwas/">Ustadz Irfan S. Awwas</a></li>
+                    </ul>
+                </div>
+                <div class="jeg_newsfeed_list loaded">
+                    <div data-cat-id="21966" data-load-status="loaded" class="jeg_newsfeed_container">
+                        <div class="newsfeed_static with_subcat">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/khutbah-wukuf-arafah-1446-h-2025-m-memenuhi-undangan-haji-ke-baitullah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="750" height="500" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Khutbah Wukuf Arafah 1446 H / 2025 M: Memenuhi Undangan Haji ke Baitullah" decoding="async" sizes="(max-width: 750px) 100vw, 750px" data-attachment-id="498677" data-permalink="https://www.arrahmah.id/khutbah-wukuf-arafah-1446-h-2025-m-memenuhi-undangan-haji-ke-baitullah/attachment/3924491487/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?fit=750%2C500&amp;ssl=1" data-orig-size="750,500" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="3924491487" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?fit=750%2C500&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?fit=750%2C500&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?w=750&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/05/3924491487.webp?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/khutbah-wukuf-arafah-1446-h-2025-m-memenuhi-undangan-haji-ke-baitullah/">Khutbah Wukuf Arafah 1446 H / 2025 M: Memenuhi Undangan Haji ke Baitullah</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/khutbah-jumat-bencana-alam-di-kota-tak-bertuhan/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="640" height="360" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Khutbah Jum&#8217;at: Bencana Alam di Kota tak Bertuhan" decoding="async" sizes="(max-width: 640px) 100vw, 640px" data-attachment-id="488200" data-permalink="https://www.arrahmah.id/khutbah-jumat-bencana-alam-di-kota-tak-bertuhan/images-9-15-2/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?fit=640%2C360&amp;ssl=1" data-orig-size="640,360" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (9) (15)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?fit=640%2C360&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?fit=640%2C360&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?w=640&amp;ssl=1 640w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/01/images-9-15.jpeg?resize=300%2C169&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/khutbah-jumat-bencana-alam-di-kota-tak-bertuhan/">Khutbah Jum&#8217;at: Bencana Alam di Kota tak Bertuhan</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/catatan-perjalanan-dari-bumi-jihad-syam/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1920" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Catatan Perjalanan dari Bumi Jihad Syam" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="485565" data-permalink="https://www.arrahmah.id/catatan-perjalanan-dari-bumi-jihad-syam/img-20241119-wa0025/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG-20241119-WA0025" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?fit=1024%2C768&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?fit=2560%2C1920&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=750%2C563&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0025.jpg?resize=1140%2C855&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/catatan-perjalanan-dari-bumi-jihad-syam/">Catatan Perjalanan dari Bumi Jihad Syam</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/khutbah-jumat-indonesia-berkah-bebas-dari-kemungkaran/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1920" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Khutbah Jum&#8217;at: Indonesia Berkah Bebas dari Kemungkaran" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="484826" data-permalink="https://www.arrahmah.id/khutbah-jumat-indonesia-berkah-bebas-dari-kemungkaran/img-20241119-wa0021/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG-20241119-WA0021" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?fit=1024%2C768&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?fit=2560%2C1920&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=750%2C563&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/IMG-20241119-WA0021.jpg?resize=1140%2C855&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/khutbah-jumat-indonesia-berkah-bebas-dari-kemungkaran/">Khutbah Jum&#8217;at: Indonesia Berkah Bebas dari Kemungkaran</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/oposisi-setan-bisu-di-pilkada-2024/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1920" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Oposisi Setan Bisu di Pilkada 2024" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="484355" data-permalink="https://www.arrahmah.id/oposisi-setan-bisu-di-pilkada-2024/img-20241129-wa0009/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG-20241129-WA0009" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?fit=1024%2C768&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?fit=2560%2C1920&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=750%2C563&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241129-WA0009.jpg?resize=1140%2C855&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/oposisi-setan-bisu-di-pilkada-2024/">Oposisi Setan Bisu di Pilkada 2024</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/dialog-syeikh-abdullah-ghabayin-dan-syeikh-fadi-ad-dalli-terkait-kondisi-di-gaza/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="299" height="168" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Eskalasi meningkat sebabkan 21 warga Palestina meninggal dunia" decoding="async" data-attachment-id="446582" data-permalink="https://www.arrahmah.id/eskalasi-meningkat-sebabkan-21-warga-palestina-meninggal-dunia/gaza-56/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/05/gaza.jpeg?fit=299%2C168&amp;ssl=1" data-orig-size="299,168" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="gaza" data-image-description="" data-image-caption="&lt;p&gt;Asap membumbung tinggi di Jalur Gaza akiabt serangan &#8220;Israel&#8221;.&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/05/gaza.jpeg?fit=299%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/05/gaza.jpeg?fit=299%2C168&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/05/gaza.jpeg?fit=299%2C168&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/dialog-syeikh-abdullah-ghabayin-dan-syeikh-fadi-ad-dalli-terkait-kondisi-di-gaza/">Dialog Syeikh Abdullah Ghabayin dan Syeikh Fadi Ad-Dalli Terkait Kondisi di Gaza</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/presiden-baru-harapan-baru-menuju-baldah-thoyyibah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="2560" height="1920" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Presiden Baru, Harapan Baru Menuju Baldah Thoyyibah" decoding="async" sizes="(max-width: 2560px) 100vw, 2560px" data-attachment-id="483764" data-permalink="https://www.arrahmah.id/presiden-baru-harapan-baru-menuju-baldah-thoyyibah/img-20241119-wa0020/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?fit=2560%2C1920&amp;ssl=1" data-orig-size="2560,1920" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="IMG-20241119-WA0020" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?fit=300%2C225&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?fit=1024%2C768&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?fit=2560%2C1920&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?w=2560&amp;ssl=1 2560w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=300%2C225&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=1024%2C768&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=768%2C576&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=1536%2C1152&amp;ssl=1 1536w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=2048%2C1536&amp;ssl=1 2048w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=750%2C563&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/11/IMG-20241119-WA0020.jpg?resize=1140%2C855&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/presiden-baru-harapan-baru-menuju-baldah-thoyyibah/">Presiden Baru, Harapan Baru Menuju Baldah Thoyyibah</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/khutbah-jumat-indonesia-darurat-makanan-dan-minuman-haram/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="640" height="410" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Khutbah Jumat: Indonesia Darurat Makanan dan Minuman Haram" decoding="async" sizes="(max-width: 640px) 100vw, 640px" data-attachment-id="482671" data-permalink="https://www.arrahmah.id/khutbah-jumat-indonesia-darurat-makanan-dan-minuman-haram/images-5-16-2/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?fit=640%2C410&amp;ssl=1" data-orig-size="640,410" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (5) (16)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?fit=300%2C192&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?fit=640%2C410&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?fit=640%2C410&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?w=640&amp;ssl=1 640w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-5-16.jpeg?resize=300%2C192&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/khutbah-jumat-indonesia-darurat-makanan-dan-minuman-haram/">Khutbah Jumat: Indonesia Darurat Makanan dan Minuman Haram</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/lengsernya-rezim-ruwaibidhah/"><div class="thumbnail-container animate-lazy custom-size size-500 "><img width="612" height="433" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Lengsernya Rezim Ruwaibidhah" decoding="async" sizes="(max-width: 612px) 100vw, 612px" data-attachment-id="481160" data-permalink="https://www.arrahmah.id/lengsernya-rezim-ruwaibidhah/images-4-1/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?fit=612%2C433&amp;ssl=1" data-orig-size="612,433" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (4) (1)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?fit=300%2C212&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?fit=612%2C433&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?fit=612%2C433&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?w=612&amp;ssl=1 612w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?resize=300%2C212&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/10/images-4-1.jpeg?resize=120%2C86&amp;ssl=1 120w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/lengsernya-rezim-ruwaibidhah/">Lengsernya Rezim Ruwaibidhah</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div>
+                
+            </div>
+                </div></li>
+<li id="menu-item-452810" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452810 bgnav jeg_megamenu category_1" data-number="9"  data-item-row="default" ><a href="https://www.arrahmah.id/kanal/redaksi/">Redaksi</a><div class="sub-menu">
+                    <div class="jeg_newsfeed clearfix">
+                <div class="jeg_newsfeed_list">
+                    <div data-cat-id="5109" data-load-status="loaded" class="jeg_newsfeed_container no_subcat">
+                        <div class="newsfeed_carousel">
+                            <div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/kaleidoskop-2024/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Kaleidoskop 2024: Tantangan dan Harapan" decoding="async" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="486457" data-permalink="https://www.arrahmah.id/kaleidoskop-2024/kaleidoskop-2024/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/kaleidoskop-2024.jpeg?fit=1600%2C900&amp;ssl=1" data-orig-size="1600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kaleidoskop-2024" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/kaleidoskop-2024.jpeg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/kaleidoskop-2024.jpeg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/12/kaleidoskop-2024.jpeg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/kaleidoskop-2024/">Kaleidoskop 2024: Tantangan dan Harapan</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1445-h/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Selamat Hari Raya Idulfitri 1445 H" decoding="async" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="470694" data-permalink="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1445-h/9c372bcf-e96b-4408-8936-ec869af4d31f/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/9c372bcf-e96b-4408-8936-ec869af4d31f.jpg?fit=1080%2C1080&amp;ssl=1" data-orig-size="1080,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="9c372bcf-e96b-4408-8936-ec869af4d31f" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/9c372bcf-e96b-4408-8936-ec869af4d31f.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/9c372bcf-e96b-4408-8936-ec869af4d31f.jpg?fit=1024%2C1024&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/9c372bcf-e96b-4408-8936-ec869af4d31f.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1445-h/">Selamat Hari Raya Idulfitri 1445 H</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/gaza-penakluk-israel-film-terbaik-dari-kami-yang-akan-segera-tayang/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Gaza Penakluk &#8220;Israel&#8221;, film terbaik dari kami yang akan segera tayang" decoding="async" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="470536" data-permalink="https://www.arrahmah.id/gaza-penakluk-israel-film-terbaik-dari-kami-yang-akan-segera-tayang/1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9.jpg?fit=1600%2C900&amp;ssl=1" data-orig-size="1600,900" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9.jpg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2024/04/1cdf5d77-81f8-4e4f-a7f8-ae28c775b6f9.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/gaza-penakluk-israel-film-terbaik-dari-kami-yang-akan-segera-tayang/">Gaza Penakluk &#8220;Israel&#8221;, film terbaik dari kami yang akan segera tayang</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/kaleidoskop-2023/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Kaleidoskop 2023" decoding="async" sizes="(max-width: 360px) 100vw, 360px" data-attachment-id="464415" data-permalink="https://www.arrahmah.id/kaleidoskop-2023/kaleidoskop2023arc2/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/kaleidoskop2023arc2.jpeg?fit=1600%2C898&amp;ssl=1" data-orig-size="1600,898" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kaleidoskop2023arc2" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/kaleidoskop2023arc2.jpeg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/kaleidoskop2023arc2.jpeg?fit=1024%2C575&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/kaleidoskop2023arc2.jpeg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/kaleidoskop-2023/">Kaleidoskop 2023</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1444-h/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Selamat Hari Raya Idulfitri 1444 H" decoding="async" data-attachment-id="445621" data-permalink="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1444-h/eid-greating-arrahmah-1/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/04/eid-greating-arrahmah-1.jpg?fit=843%2C843&amp;ssl=1" data-orig-size="843,843" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="eid greating arrahmah 1" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/04/eid-greating-arrahmah-1.jpg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/04/eid-greating-arrahmah-1.jpg?fit=843%2C843&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/04/eid-greating-arrahmah-1.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/selamat-hari-raya-idulfitri-1444-h/">Selamat Hari Raya Idulfitri 1444 H</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/kaleidoskop-2022/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Kaleidoskop 2022" decoding="async" data-attachment-id="437765" data-permalink="https://www.arrahmah.id/kaleidoskop-2022/kaleidoskop-2022/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/kaleidoskop-2022.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="kaleidoskop 2022" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/kaleidoskop-2022.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/kaleidoskop-2022.jpg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/kaleidoskop-2022.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/kaleidoskop-2022/">Kaleidoskop 2022</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/support-dakwah-media-islam-arrahmah-com/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Support Dakwah Media Islam Arrahmah.com" decoding="async" data-attachment-id="409077" data-permalink="https://www.arrahmah.id/support-dakwah-media-islam-arrahmah-com/automatic-downloaded-screenshots-from-https-www-youtube-com-watchvls6xf0ojisat42sab_channelarrahmahcom-by-publisher/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/05/maxresdefault-1.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Automatic downloaded screenshots from https://www.youtube.com/watch?v=ls6xf0oJISA&#038;t=42s&#038;ab_channel=arrahmahcom by Publisher" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/05/maxresdefault-1.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/05/maxresdefault-1.jpg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/05/maxresdefault-1.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/support-dakwah-media-islam-arrahmah-com/">Support Dakwah Media Islam Arrahmah.com</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/marhaban-ya-ramadhan/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Marhaban Ya Ramadhan" decoding="async" data-attachment-id="407699" data-permalink="https://www.arrahmah.id/marhaban-ya-ramadhan/marhaban-ya-ramadhan-arrahmah/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/04/marhaban-ya-ramadhan-arrahmah.jpeg?fit=1080%2C1080&amp;ssl=1" data-orig-size="1080,1080" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="marhaban-ya-ramadhan-arrahmah" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/04/marhaban-ya-ramadhan-arrahmah.jpeg?fit=300%2C300&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/04/marhaban-ya-ramadhan-arrahmah.jpeg?fit=1024%2C1024&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2021/04/marhaban-ya-ramadhan-arrahmah.jpeg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/marhaban-ya-ramadhan/">Marhaban Ya Ramadhan</a></h3>
+                </div><div class="jeg_newsfeed_item ">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/jibriel-arrahmah-terdepan-menentang-kelompok-teror-isis/"><div class="thumbnail-container size-500 "><img width="360" height="180" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-jnews-360x180 size-jnews-360x180 owl-lazy lazyload wp-post-image" alt="Jibriel dan geng liberal yang hipokrit; Studi kasus pemberitaan bom Sarinah" decoding="async" data-attachment-id="309786" data-permalink="https://www.arrahmah.id/jibriel-dan-kaum-liberal-yang-hipokrit-studi-kasus-pemberitaan-pascateror-bom-sarinah/jibriel-cnn/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2016/01/jibriel-cnn.jpg?fit=765%2C510&amp;ssl=1" data-orig-size="765,510" data-comments-opened="0" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="jibriel-cnn" data-image-description="" data-image-caption="&lt;p&gt;MUhammad Jibriel Abdul Rahman saat diwawancara oleh CNN Indonesia LIVE &lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2016/01/jibriel-cnn.jpg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2016/01/jibriel-cnn.jpg?fit=765%2C510&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2016/01/jibriel-cnn.jpg?resize=360%2C180&amp;ssl=1" /></div></a>
+                    </div>
+                    <h3 class="jeg_post_title"><a href="https://www.arrahmah.id/jibriel-arrahmah-terdepan-menentang-kelompok-teror-isis/">Jibriel: Arrahmah Terdepan Menentang Kelompok Teror ISIS</a></h3>
+                </div>
+                        </div>
+                    </div>
+                    <div class="newsfeed_overlay">
+                    <div class="preloader_type preloader_circle">
+                        <div class="newsfeed_preloader jeg_preloader dot">
+                            <span></span><span></span><span></span>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader circle">
+                            <div class="jnews_preloader_circle_outer">
+                                <div class="jnews_preloader_circle_inner"></div>
+                            </div>
+                        </div>
+                        <div class="newsfeed_preloader jeg_preloader square">
+                            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+                        </div>
+                    </div>
+                </div>
+                </div></div>
+                </div></li>
+<li id="menu-item-452819" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452819 bgnav" data-item-row="default" ><a href="https://arrahmahvideo.com/">Video</a></li>
+</ul></div></div>
+                </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_center jeg_nav_normal">
+                <div class="item_wrap jeg_nav_aligncenter">
+                                    </div>
+            </div>
+
+            
+            <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                <div class="item_wrap jeg_nav_alignright">
+                    <!-- Search Icon -->
+<div class="jeg_nav_item jeg_search_wrapper search_icon jeg_search_modal_expand">
+    <a href="#" class="jeg_search_toggle" aria-label="Search Button"><i class="fa fa-search"></i></a>
+    <form action="https://www.arrahmah.id/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div>                </div>
+            </div>
+
+                </div>
+</div>        </div>
+    </div>
+</div>
+        </div>
+
+        <div class="jeg_navbar_mobile_wrapper">
+            <div class="jeg_navbar_mobile" data-mode="fixed">
+    <div class="jeg_mobile_bottombar jeg_mobile_midbar jeg_container normal">
+    <div class="container">
+        <div class="jeg_nav_row">
+            
+                <div class="jeg_nav_col jeg_nav_left jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignleft">
+                        <div class="jeg_nav_item">
+    <a href="#" aria-label="Show Menu" class="toggle_btn jeg_mobile_toggle"><i class="fa fa-bars"></i></a>
+</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_center jeg_nav_grow">
+                    <div class="item_wrap jeg_nav_aligncenter">
+                        <div class="jeg_nav_item jeg_mobile_logo">
+			<div class="site-title">
+			<a href="https://www.arrahmah.id/" aria-label="Visit Homepage">
+				<img class='jeg_logo_img' src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png" srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x" alt="Arrahmah.id"data-light-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png" data-light-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png 2x" data-dark-src="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png" data-dark-srcset="https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png 1x, https://www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-sw.png 2x">			</a>
+		</div>
+	</div>                    </div>
+                </div>
+
+                
+                <div class="jeg_nav_col jeg_nav_right jeg_nav_normal">
+                    <div class="item_wrap jeg_nav_alignright">
+                        <div class="jeg_nav_item jeg_dark_mode">
+                    <label class="dark_mode_switch">
+                        <input aria-label="Dark mode toogle" type="checkbox" class="jeg_dark_mode_toggle" >
+                        <span class="slider round"></span>
+                    </label>
+                 </div>                    </div>
+                </div>
+
+                        </div>
+    </div>
+</div>
+</div>
+<div class="sticky_blankspace" style="height: 60px;">
+    
+</div>        
+</div>
+<!-- Mulai Berita -->
+        <div class="jeg_ad jeg_ad_top jnews_header_bottom_ads">
+            <div class='ads-wrapper  '></div>        </div>
+
+            <div class="post-wrapper">
+
+        <div class="post-wrap" >
+
+            
+            <div class="jeg_main ">
+                <div class="jeg_container">
+                    <div class="jeg_content jeg_singlepage">
+	<div class="container">
+
+		<div class="jeg_ad jeg_article_top jnews_article_top_ads">
+			<div class='ads-wrapper  '></div>		</div>
+
+		
+			<div class="row">
+				<div class="jeg_main_content col-md-8">
+
+					<div class="jeg_inner_content">
+												<div class="jeg_breadcrumbs jeg_breadcrumb_container">
+							<div id="breadcrumbs"><span class="">
+                <a href="https://www.arrahmah.id">
+Home
+                    </a>
+            </span><i class="fa fa-angle-right"></i><span class="">
+                <a href="https://www.arrahmah.id/kanal/news/">
+News
+                    </a>
+            </span><i class="fa fa-angle-right"></i><span class="breadcrumb_last_link">
+                <a href="https://www.arrahmah.id/kanal/news/internasional/">
+Internasional</a>
+            </span></div>						</div>
+						
+						<div  class="jeg_featured featured_image "><a href="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=678%2C455&ssl=1"><div class="thumbnail-container" style="padding-bottom:55.31%"><img width="678" height="375" src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?resize=678%2C375&amp;ssl=1" class="attachment-jnews-750x375 size-jnews-750x375 wp-post-image" alt="Presiden AS Donald Trump memperingatkan &#039;Israel&#039; agar tidak melanggar gencatan senjata dengan Iran. (Foto: rekaman video)" decoding="async" data-attachment-id="500239" data-permalink="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/trump-28/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=678%2C455&amp;ssl=1" data-orig-size="678,455" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="trump" data-image-description="" data-image-caption="&lt;p&gt;Presiden AS Donald Trump memperingatkan &#8216;Israel&#8217; agar tidak melanggar gencatan senjata dengan Iran. (Foto: rekaman video)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/trump.png?fit=678%2C455&amp;ssl=1" /></div><p class="wp-caption-text">Presiden AS Donald Trump memperingatkan 'Israel' agar tidak melanggar gencatan senjata dengan Iran. (Foto: rekaman video)</p></a></div>
+<!-- Judul berita -->
+						<div class="entry-header">
+							
+							<h1 class="jeg_post_title">&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;</h1>
+
+							
+							<div class="jeg_meta_container"><div class="jeg_post_meta jeg_post_meta_1">
+
+	<div class="meta_left">
+									<div class="jeg_meta_author">
+										<span class="meta_text">by</span>
+					<a href="https://www.arrahmah.id/author/zarah/">Zarah Amala</a>				</div>
+					
+					<div class="jeg_meta_date">
+				<a href="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/">Rab, 25 Juni 2025 / 29 Dzulhijjah 1446</a>
+			</div>
+		
+					<div class="jeg_meta_category">
+				<span><span class="meta_text">in</span>
+					<a href="https://www.arrahmah.id/kanal/news/internasional/" rel="category tag">Internasional</a>				</span>
+			</div>
+		
+		<div class="jeg_meta_reading_time">
+			            <span>
+			            	Reading Time: 2 mins read
+			            </span>
+			        </div>	</div>
+
+	<div class="meta_right">
+		<div class='jeg_meta_like_container jeg_meta_like'>
+                <a class='like' href='#' data-id='500234' data-type='like' data-message=''>
+                        <i class='fa fa-thumbs-o-up'></i> <span>0</span>
+                    </a>
+            </div><div class="jeg_meta_zoom" data-in-step="3" data-out-step="2">
+							<div class="zoom-dropdown">
+								<div class="zoom-icon">
+									<span class="zoom-icon-small">A</span>
+									<span class="zoom-icon-big">A</span>
+								</div>
+								<div class="zoom-item-wrapper">
+									<div class="zoom-item">
+										<button class="zoom-out"><span>A</span></button>
+										<button class="zoom-in"><span>A</span></button>
+										<div class="zoom-bar-container">
+											<div class="zoom-bar"></div>
+										</div>
+										<button class="zoom-reset"><span>Reset</span></button>
+									</div>
+								</div>
+							</div>
+						</div>					<div class="jeg_meta_comment"><a href="https://www.arrahmah.id/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/#comments"><i
+						class="fa fa-comment-o"></i> 0</a></div>
+			</div>
+</div>
+</div>
+						</div>
+
+						<div class="jeg_ad jeg_article jnews_content_top_ads "><div class='ads-wrapper  '></div></div>
+						<div class="jeg_share_top_container"><div class="jeg_share_button clearfix">
+                <div class="jeg_share_stats">
+                    
+                    <div class="jeg_views_count">
+                    <div class="counts">0</div>
+                    <span class="sharetext">VIEWS</span>
+                </div>
+                </div>
+                <div class="jeg_sharelist">
+                    <a href="//api.whatsapp.com/send?text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99%0Ahttps%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' aria-label='Share on Whatsapp' data-action="share/whatsapp/share"  class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Share on Whatsapp</span></a>
+                    <div class="share-secondary">
+                    <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F&text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99" rel='nofollow' aria-label='Share on Telegram' class="jeg_btn-telegram "><i class="fa fa-telegram"></i></a><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' aria-label='Share on Facebook' class="jeg_btn-facebook "><i class="fa fa-facebook-official"></i></a><a href="https://twitter.com/intent/tweet?text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99%20via%20%40arrahmah&url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' aria-label='Share on Twitter' class="jeg_btn-twitter "><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i></a><a href="/cdn-cgi/l/email-protection#56692523343c3335226b731364736e66736f6e1f252437333a731364736e66736f6f736466123f3a372437383173646611373831312373646611333835372237387364660533383c3722377364663233383137387364661f2437387364157364660224233b26736517736466731364736e66736f6e0237243f3d736466063f3a39227364661d373a3f373873646605333d37243738317364661c233137736467731364736e66736f6f70373b266d3439322f6b3e2222262573651773641073641021212178372424373e3b373e783f327364103f252437333a7b323f3a37243738317b3137383131237b31333835372237387b2533383c3722377b3233383137387b3f2437387b2224233b267b2237243f3d7b263f3a39227b3d373a3f37387b25333d37243738317b3c233137736410" rel='nofollow' aria-label='Share on Email' class="jeg_btn-email "><i class="fa fa-envelope"></i></a>
+                </div>
+                <a href="#" class="jeg_btn-toggle" aria-label="Share on another social media platform"><i class="fa fa-share"></i></a>
+                </div>
+            </div></div>
+						<div class="entry-content no-share">
+							<div class="jeg_share_button share-float jeg_sticky_share clearfix share-normal">
+								<div class="jeg_share_float_container"></div>							</div>
+
+							<div class="content-inner ">
+								<p data-start="162" data-end="391">
+<!-- Isi berita -->
+								    <strong>GAZA (Arrahmah.id)</strong> &#8211; Pada Selasa (24/6/2025), Presiden AS Donald Trump memperingatkan &#8216;Israel&#8217; untuk tidak membombardir Iran, menyebut langkah itu sebagai “pelanggaran berat” terhadap kesepakatan gencatan senjata yang dia umumkan sebelumnya.</p><div class="arrah-content_3" id="arrah-4046953498"><a href="https://trakteer.id/arrahmahid/tip" aria-label="Traktir Jurnalis Arrahmah"><img loading="lazy" decoding="async" src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/WhatsApp-Image-2023-12-01-at-3.30.32-PM-1.jpg?fit=350%2C49&#038;ssl=1" alt=""  srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/WhatsApp-Image-2023-12-01-at-3.30.32-PM-1.jpg?w=350&ssl=1 350w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/12/WhatsApp-Image-2023-12-01-at-3.30.32-PM-1.jpg?resize=300%2C42&ssl=1 300w" sizes="(max-width: 350px) 100vw, 350px" width="350" height="49"  style="display: inline-block;" /></a></div>
+<p data-start="162" data-end="391">“ISRAEL. JANGAN JATUHKAN BOM ITU. KALAU KALIAN LAKUKAN, ITU PELANGGARAN BESAR. TARIK SEMUA PILOT KALIAN PULANG, SEKARANG JUGA!” tulis Trump dengan nada keras di platform media sosial miliknya, <em>Truth Social</em>.</p><div class='jnews_inline_related_post_wrapper right'>
+                        <div class='jnews_inline_related_post'>
+                <div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_500234_0_685b46778b5b4   " data-unique="jnews_module_500234_0_685b46778b5b4">
+					<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Baca<strong>Juga</strong></span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" aria-label="Read article: Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran"><div class="thumbnail-container animate-lazy custom-size size-715 "><img data-recalc-dims="1" width="291" height="173" src="https://i0.wp.com/www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png?resize=291%2C173&#038;ssl=1" class="attachment-full size-full lazyload wp-post-image" alt="Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran" data-attachment-id="500221" data-permalink="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/images-4-32/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-orig-size="291,173" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (4)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/">Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/" aria-label="Read article: Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan"><div class="thumbnail-container animate-lazy custom-size size-715 "><img data-recalc-dims="1" width="440" height="295" src="https://i0.wp.com/www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png?resize=440%2C295&#038;ssl=1" class="attachment-full size-full lazyload wp-post-image" alt="Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan" sizes="(max-width: 440px) 100vw, 440px" data-attachment-id="500218" data-permalink="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/new-project_3/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="New Project_3" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/">Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" aria-label="Read article: Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata"><div class="thumbnail-container animate-lazy custom-size size-715 "><img data-recalc-dims="1" width="599" height="399" src="https://i0.wp.com/www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png?resize=599%2C399&#038;ssl=1" class="attachment-full size-full lazyload wp-post-image" alt="Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata" sizes="(max-width: 599px) 100vw, 599px" data-attachment-id="500215" data-permalink="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/download-67/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-orig-size="599,399" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="download (67)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?w=599&amp;ssl=1 599w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/">Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/" aria-label="Read article: Amir Khan Muttaqi: Dunia Islam Menghadapi Ujian Bersejarah"><div class="thumbnail-container animate-lazy custom-size size-715 "><img data-recalc-dims="1" width="440" height="295" src="https://i0.wp.com/www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png?resize=440%2C295&#038;ssl=1" class="attachment-full size-full lazyload wp-post-image" alt="Amir Khan Muttaqi: Dunia Islam Menghadapi Ujian Bersejarah" sizes="(max-width: 440px) 100vw, 440px" data-attachment-id="500212" data-permalink="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/vlcsnap-2025-06-23-18h54m22s374-1/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="vlcsnap-2025-06-23-18h54m22s374 (1)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/vlcsnap-2025-06-23-18h54m22s374-1.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/">Amir Khan Muttaqi: Dunia Islam Menghadapi Ujian Bersejarah</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/amir-khan-muttaqi-dunia-islam-menghadapi-ujian-bersejarah/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var jnews_module_500234_0_685b46778b5b4 = {"compatible_column_notice":"info","header_icon":"","first_title":"Baca","second_title":"Juga","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":false,"number_post":"4","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":500234,"include_category":"3","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"","main_custom_image_size":"default","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"4","pagination_scroll_limit":0,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_21"};</script>
+				</div>
+            </div>
+                    </div>  <div id="donasi-wrap"></div>
+  <script>
+    jQuery(document).ready(function ($) {
+      $('head').append('<link rel="stylesheet" id="donasiaja-style-css" href="https://donasi.arrahmah.id/wp-content/plugins/donasiaja/assets/css/donasiaja-style.css?ver=1.7.0.2" media="all" />');
+      $.ajax({
+        url: 'https://donasi.arrahmah.id/donasi/',
+        success: (data) => {
+          var html = $($.parseHTML(data));
+          // var css = html.find('#donasiaja-style-css');
+          var widget = html.find('.dja-widget-wrapper > ul');
+          widget.find('a').attr('target', '_blank');
+          $('#donasi-wrap').append(widget);
+        },
+      });
+    });
+  </script>
+  
+<p data-start="603" data-end="893">Pernyataan Trump ini muncul setelah Menteri Pertahanan &#8216;Israel&#8217;, Israel Katz, memerintahkan militer untuk menyerang Teheran, dengan alasan Iran telah melanggar kesepakatan gencatan senjata, klaim yang langsung dibantah oleh Iran. Teheran bersumpah akan membalas jika diserang lagi.</p>
+<p data-start="895" data-end="967">Tak lama kemudian, Trump menenangkan situasi lewat postingan berikutnya:</p>
+<p data-start="895" data-end="967">“ISRAEL tidak akan menyerang Iran. Semua pesawat akan berbalik arah dan pulang, sambil melambaikan ‘salam persahabatan’ dari udara ke Iran. Tidak ada yang terluka. Gencatan senjata masih berlaku!”</p>
+<p data-start="1169" data-end="1338">Trump juga menyombongkan bahwa fasilitas nuklir Iran yang diserang &#8216;Israel&#8217; dan AS “sudah hancur total”, dan menurutnya, Iran tidak akan bisa membangunnya kembali.</p>
+<p data-start="1345" data-end="1390"><strong>Trump Kecam &#8216;Israel&#8217;</strong></p>
+<p data-start="1392" data-end="1601">Sebelumnya di hari yang sama, Trump meluapkan amarahnya ke &#8216;Israel&#8217;, mengatakan mereka telah “menjatuhkan bom sebanyak yang belum pernah saya lihat sebelumnya”, bahkan setelah gencatan senjata diumumkan.</p>
+<p data-start="1392" data-end="1601">“Saya kecewa sama &#8216;Israel&#8217;. Saya sudah bilang ‘oke, kalian punya 12 jam,’ tapi mereka malah langsung menghabisi semuanya dalam satu jam pertama,” ujarnya kesal.</p>
+<p data-start="1765" data-end="1948">Trump juga mengatakan &#8216;Israel&#8217; bertindak terlalu reaktif hanya karena satu rudal dari Iran. Ia juga tidak suka bahwa &#8216;Israel&#8217; langsung menyerang habis-habisan begitu kesepakatan tercapai.</p>
+<p data-start="1765" data-end="1948">“Jadi, saya kecewa. Sama Iran juga. Mereka berdua tidak tahu apa yang mereka lakukan,” kata Trump dengan gaya blak-blakan khasnya. “They don’t know what the f*ck they’re doing,” ujarnya di hadapan wartawan sebelum bertolak ke KTT NATO di Den Haag.</p>
+<p data-start="2204" data-end="2250"><strong>Awal Mula Gencatan Senjata Iran-&#8216;Israel&#8217;</strong></p>
+<p data-start="2252" data-end="2393">Gencatan senjata antara Iran dan &#8216;Israel&#8217; resmi dimulai pada pukul 04:00 GMT, Selasa, mengakhiri “perang 12 hari” yang menegangkan.</p>
+<p data-start="2395" data-end="2630">Konflik bermula pada 13 Juni, ketika &#8216;Israel&#8217; mulai menyerang Iran, menargetkan fasilitas nuklir dan militer, dengan alasan Iran hampir memiliki senjata nuklir. Bahkan, beberapa bangunan tempat tinggal juga ikut jadi sasaran.</p>
+<p data-start="2632" data-end="2886">Iran membalas dengan serangan misil besar-besaran, dan pada Minggu dini hari (15/6), AS ikut masuk gelanggang dan membom tiga fasilitas nuklir utama Iran: Fordow, Natanz, dan Isfahan. Trump mengklaim serangan itu “menghancurkan total” fasilitas tersebut.</p>
+<p data-start="2893" data-end="2947"><strong>Serangan Balasan Iran ke Pangkalan AS di Qatar</strong></p>
+<div class="arrah-content" style="margin-left: auto;margin-right: auto;text-align: center;" id="arrah-975821425"><a href="https://arrahmahpeduli.amalsholeh.com/support-dakwah-media-arrahmah?ref=jXwar" aria-label="dukung-arrahmah"><img loading="lazy" decoding="async" src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah-1.jpg?fit=540%2C90&#038;ssl=1" alt=""  srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah-1.jpg?w=540&ssl=1 540w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah-1.jpg?resize=300%2C50&ssl=1 300w" sizes="(max-width: 540px) 100vw, 540px" width="540" height="90"  style="display: inline-block;" /></a></div><p data-start="2949" data-end="3120">Sebagai balasan, Iran menembakkan rudal ke Pangkalan Udara Al Udeid milik AS di Qatar pada Senin malam (23/6). Untungnya, tidak ada korban jiwa atau kerusakan serius.</p>
+<p data-start="3122" data-end="3331">Gencatan senjata diumumkan langsung oleh Trump, dengan skema bertahap: Iran menghentikan serangan lebih dulu, dan &#8216;Israel&#8217; menyusul 12 jam kemudian. Setelah 24 jam, semua operasi tempur resmi dihentikan.</p>
+<p data-start="3333" data-end="3382">Trump menutup pernyataannya dengan imbauan tegas: “Gencatan senjata sudah berlaku. Tolong JANGAN DILANGGAR!” (zarahamala/arrahmah.id)</p>
+								
+								
+																	<div class="jeg_post_tags"><span>Tags:</span> <a href="https://www.arrahmah.id/tag/gencatan-senjata/" rel="tag">gencatan senjata</a><a href="https://www.arrahmah.id/tag/headline/" rel="tag">Headline</a><a href="https://www.arrahmah.id/tag/iran/" rel="tag">Iran</a><a href="https://www.arrahmah.id/tag/israel/" rel="tag">Israel</a><a href="https://www.arrahmah.id/tag/trump/" rel="tag">trump</a></div>
+															</div>
+
+
+						</div>
+						<div class="jeg_share_bottom_container"><div class="jeg_share_button share-bottom clearfix">
+                <div class="jeg_sharelist">
+                    <a href="//api.whatsapp.com/send?text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99%0Ahttps%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' class="jeg_btn-whatsapp expanded"><i class="fa fa-whatsapp"></i><span>Send</span></a>
+                    <div class="share-secondary">
+                    <a href="https://telegram.me/share/url?url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F&text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99" rel='nofollow' aria-label='Share on Telegram' class="jeg_btn-telegram "><i class="fa fa-telegram"></i></a><a href="https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' aria-label='Share on Facebook' class="jeg_btn-facebook "><i class="fa fa-facebook-official"></i></a><a href="https://twitter.com/intent/tweet?text=%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99%20via%20%40arrahmah&url=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" rel='nofollow' aria-label='Share on Twitter' class="jeg_btn-twitter "><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i></a><a href="/cdn-cgi/l/email-protection#aa95d9dfc8c0cfc9de978fef988f929a8f9392e3d9d8cbcfc68fef988f929a8f93938f989aeec3c6cbd8cbc4cd8f989aedcbc4cdcddf8f989aedcfc4c9cbdecbc48f989af9cfc4c0cbdecb8f989acecfc4cdcbc48f989ae3d8cbc48f98e98f989afed8dfc7da8f99eb8f989a8fef988f929a8f9392fecbd8c3c18f989afac3c6c5de8f989ae1cbc6c3cbc48f989af9cfc1cbd8cbc4cd8f989ae0dfcdcb8f989b8fef988f929a8f93938ccbc7da91c8c5ced397c2dededad98f99eb8f98ec8f98ecdddddd84cbd8d8cbc2c7cbc284c3ce8f98ecc3d9d8cbcfc687cec3c6cbd8cbc4cd87cdcbc4cdcddf87cdcfc4c9cbdecbc487d9cfc4c0cbdecb87cecfc4cdcbc487c3d8cbc487ded8dfc7da87decbd8c3c187dac3c6c5de87c1cbc6c3cbc487d9cfc1cbd8cbc4cd87c0dfcdcb8f98ec" rel='nofollow' aria-label='Share on Email' class="jeg_btn-email "><i class="fa fa-envelope"></i></a>
+                </div>
+                <a href="#" class="jeg_btn-toggle" aria-label="Share on another social media platform"><i class="fa fa-share"></i></a>
+                </div>
+            </div></div>
+												<div class="jeg_ad jeg_article jnews_content_bottom_ads "><div class='ads-wrapper  '></div></div><div class="jnews_prev_next_container"><div class="jeg_prevnext_post">
+            <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/" class="post prev-post">
+            <span class="caption">Previous Post</span>
+            <h3 class="post-title">Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global</h3>
+        </a>
+    
+    </div></div><div class="jnews_author_box_container "></div><div class="jnews_related_post_container"><div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_2o3 jnews_module_500234_1_685b467795890   " data-unique="jnews_module_500234_1_685b467795890">
+					<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Berita Terkait</span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/" aria-label="Read article: Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="739" height="415" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global" decoding="async" loading="lazy" sizes="auto, (max-width: 739px) 100vw, 739px" data-attachment-id="500227" data-permalink="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/images-13-20/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-orig-size="739,415" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (13)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?w=739&amp;ssl=1 739w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/">Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" aria-label="Read article: Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="291" height="173" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran" decoding="async" loading="lazy" data-attachment-id="500221" data-permalink="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/images-4-32/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-orig-size="291,173" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (4)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/">Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" aria-label="Read article: Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="599" height="399" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata" decoding="async" loading="lazy" sizes="auto, (max-width: 599px) 100vw, 599px" data-attachment-id="500215" data-permalink="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/download-67/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-orig-size="599,399" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="download (67)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?w=599&amp;ssl=1 599w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/">Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/" aria-label="Read article: “Israel” Kehilangan Nyawa dalam Serangan Terakhir Iran Sebelum Gencatan Senjata"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="“Israel” Kehilangan Nyawa dalam Serangan Terakhir Iran Sebelum Gencatan Senjata" decoding="async" loading="lazy" sizes="auto, (max-width: 770px) 100vw, 770px" data-attachment-id="500208" data-permalink="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/afp_685a307e9372-1750741118/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="afp_685a307e9372-1750741118" data-image-description="" data-image-caption="&lt;p&gt;Tim penyelamat “Israel” bekerja di sebuah bangunan yang menjadi sasaran serangan Iran di kawasan Beersheba. (AFP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/afp_685a307e9372-1750741118.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/">“Israel” Kehilangan Nyawa dalam Serangan Terakhir Iran Sebelum Gencatan Senjata</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/israel-kehilangan-nyawa-dalam-serangan-terakhir-iran-sebelum-gencatan-senjata/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/" aria-label="Read article: Felix Siauw Soroti Peran Iran dan Kelompok Non-Muslim dalam Isu Palestina: Saya Malu, Tapi Tetap Tidak Sepakat"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="700" height="393" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Felix Siauw Soroti Peran Iran dan Kelompok Non-Muslim dalam Isu Palestina: Saya Malu, Tapi Tetap Tidak Sepakat" decoding="async" loading="lazy" sizes="auto, (max-width: 700px) 100vw, 700px" data-attachment-id="500204" data-permalink="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/banser-felix-siauw/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-orig-size="700,393" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="banser-felix-siauw" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?fit=700%2C393&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?w=700&amp;ssl=1 700w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/banser-felix-siauw.jpg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/">Felix Siauw Soroti Peran Iran dan Kelompok Non-Muslim dalam Isu Palestina: Saya Malu, Tapi Tetap Tidak Sepakat</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/felix-siauw-soroti-peran-iran-dan-kelompok-non-muslim-dalam-isu-palestina-saya-malu-tapi-tetap-tidak-sepakat/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/" aria-label="Read article: Jebakan Gaza, Perlawanan Gempur Zionis dengan Taktik Baru yang Bikin Kocar-kacir"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Jebakan Gaza, Perlawanan Gempur Zionis dengan Taktik Baru yang Bikin Kocar-kacir" decoding="async" loading="lazy" sizes="auto, (max-width: 770px) 100vw, 770px" data-attachment-id="500183" data-permalink="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/perlawanan4/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="perlawanan4" data-image-description="" data-image-caption="&lt;p&gt;Kelompok perlawanan kini bersiap untuk menyerang sekelompok tentara yang melakukan penyergapan untuk mendapatkan amunisi (media sosial)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/perlawanan4.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/">Jebakan Gaza, Perlawanan Gempur Zionis dengan Taktik Baru yang Bikin Kocar-kacir</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/jebakan-gaza-perlawanan-gempur-zionis-dengan-taktik-baru-yang-bikin-kocar-kacir/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/saraya-al-quds-hantam-pasukan-zionis-dengan-rudal-canggih-rusia/" aria-label="Read article: Saraya Al-Quds Hantam Pasukan Zionis dengan Rudal Canggih Rusia"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="730" height="410" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Saraya Al-Quds Hantam Pasukan Zionis dengan Rudal Canggih Rusia" decoding="async" loading="lazy" sizes="auto, (max-width: 730px) 100vw, 730px" data-attachment-id="500189" data-permalink="https://www.arrahmah.id/saraya-al-quds-hantam-pasukan-zionis-dengan-rudal-canggih-rusia/saraya-9/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?fit=730%2C410&amp;ssl=1" data-orig-size="730,410" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="saraya" data-image-description="" data-image-caption="&lt;p&gt;Foto: tangkapan video&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?fit=730%2C410&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?fit=730%2C410&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?w=730&amp;ssl=1 730w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/saraya.webp?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/saraya-al-quds-hantam-pasukan-zionis-dengan-rudal-canggih-rusia/">Saraya Al-Quds Hantam Pasukan Zionis dengan Rudal Canggih Rusia</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/saraya-al-quds-hantam-pasukan-zionis-dengan-rudal-canggih-rusia/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/as-minta-cina-cegah-iran-tutup-selat-hormuz/" aria-label="Read article: AS Minta Cina Cegah Iran Tutup Selat Hormuz"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="AS Minta Cina Cegah Iran Tutup Selat Hormuz" decoding="async" loading="lazy" sizes="auto, (max-width: 770px) 100vw, 770px" data-attachment-id="500194" data-permalink="https://www.arrahmah.id/as-minta-cina-cegah-iran-tutup-selat-hormuz/selat-hormuz/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="selat hormuz" data-image-description="" data-image-caption="&lt;p&gt;Sebuah kapal tanker minyak melewati Selat Hormuz (Reuters)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/selat-hormuz.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/as-minta-cina-cegah-iran-tutup-selat-hormuz/">AS Minta Cina Cegah Iran Tutup Selat Hormuz</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/as-minta-cina-cegah-iran-tutup-selat-hormuz/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/ledakan-dahsyat-guncang-teheran-pasca-pengumuman-trump/" aria-label="Read article: Ledakan Dahsyat Guncang Teheran Pasca Pengumuman Trump"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="770" height="513" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Ledakan Dahsyat Guncang Teheran Pasca Pengumuman Trump" decoding="async" loading="lazy" sizes="auto, (max-width: 770px) 100vw, 770px" data-attachment-id="500200" data-permalink="https://www.arrahmah.id/ledakan-dahsyat-guncang-teheran-pasca-pengumuman-trump/teheran-5/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?fit=770%2C513&amp;ssl=1" data-orig-size="770,513" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="teheran" data-image-description="" data-image-caption="&lt;p&gt;Sebuah jalan di ibu kota Iran, Teheran, pada tanggal 23 Juni (Aljazeera)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?fit=770%2C513&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?fit=770%2C513&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?w=770&amp;ssl=1 770w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?resize=300%2C200&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?resize=768%2C512&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/teheran.webp?resize=750%2C500&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/ledakan-dahsyat-guncang-teheran-pasca-pengumuman-trump/">Ledakan Dahsyat Guncang Teheran Pasca Pengumuman Trump</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/ledakan-dahsyat-guncang-teheran-pasca-pengumuman-trump/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/israel-ancam-serang-infrastruktur-militer-iran-satu-jam-usai-seruan-gencatan-senjata-trump/" aria-label="Read article: &#8216;Israel&#8217; Ancam Serang Infrastruktur Militer Iran Satu Jam usai Seruan Gencatan Senjata Trump"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="780" height="470" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="&#8216;Israel&#8217; Ancam Serang Infrastruktur Militer Iran Satu Jam usai Seruan Gencatan Senjata Trump" decoding="async" loading="lazy" sizes="auto, (max-width: 780px) 100vw, 780px" data-attachment-id="500176" data-permalink="https://www.arrahmah.id/israel-ancam-serang-infrastruktur-militer-iran-satu-jam-usai-seruan-gencatan-senjata-trump/israel-52/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?fit=780%2C470&amp;ssl=1" data-orig-size="780,470" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="israel" data-image-description="" data-image-caption="&lt;p&gt;(QNN)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?fit=300%2C181&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?fit=780%2C470&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?fit=780%2C470&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?w=780&amp;ssl=1 780w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?resize=300%2C181&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?resize=768%2C463&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/israel.jpg?resize=750%2C452&amp;ssl=1 750w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/israel-ancam-serang-infrastruktur-militer-iran-satu-jam-usai-seruan-gencatan-senjata-trump/">&#8216;Israel&#8217; Ancam Serang Infrastruktur Militer Iran Satu Jam usai Seruan Gencatan Senjata Trump</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/israel-ancam-serang-infrastruktur-militer-iran-satu-jam-usai-seruan-gencatan-senjata-trump/" ><i class="fa fa-clock-o"></i> Sel, 24 Juni 2025 / 28 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var jnews_module_500234_1_685b467795890 = {"compatible_column_notice":"info","header_icon":"","first_title":"Berita Terkait","second_title":"","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":false,"number_post":"10","post_offset":0,"unique_content":"disable","include_post":"","included_only":false,"exclude_post":500234,"include_category":"","exclude_category":"","include_author":"","include_tag":"417,126,88,151,19957","exclude_tag":"","sort_by":"latest","date_format":"default","date_format_custom":"Y\/m\/d","force_normal_image_load":"","main_custom_image_size":"default","pagination_mode":"disable","pagination_nextprev_showtext":"","pagination_number_post":"10","pagination_scroll_limit":3,"boxed":"","boxed_shadow":"","el_id":"","el_class":"","scheme":"","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","excerpt_length":20,"paged":1,"column_class":"jeg_col_2o3","class":"jnews_block_21"};</script>
+				</div></div><div class="jnews_popup_post_container"></div><div class="jnews_comment_container">
+		<div id="respond" class="comment-respond">
+			<h3 id="reply-title" class="comment-reply-title">Komentar<small><a rel="nofollow" id="cancel-comment-reply-link" href="/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga/#respond" style="display:none;">Batalkan balasan</a></small></h3>			<form id="commentform" class="comment-form">
+				<iframe
+					title="Formulir Komentar"
+					src="https://jetpack.wordpress.com/jetpack-comment/?blogid=47156980&#038;postid=500234&#038;comment_registration=0&#038;require_name_email=1&#038;stc_enabled=0&#038;stb_enabled=1&#038;show_avatars=1&#038;avatar_default=mystery&#038;greeting=Komentar&#038;jetpack_comments_nonce=08bf78f95c&#038;greeting_reply=Tinggalkan+Balasan+ke+%25s&#038;color_scheme=transparent&#038;lang=id_ID&#038;jetpack_version=14.4.1&#038;iframe_unique_id=1&#038;show_cookie_consent=10&#038;has_cookie_consent=0&#038;is_current_user_subscribed=0&#038;token_key=%3Bnormal%3B&#038;sig=16515b6d7f7c1263ec8b8fd9a8c15049a8da175e#parent=https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F"
+											name="jetpack_remote_comment"
+						style="width:100%; height: 430px; border:0;"
+										class="jetpack_remote_comment"
+					id="jetpack_remote_comment"
+					sandbox="allow-same-origin allow-top-navigation allow-scripts allow-forms allow-popups"
+				>
+									</iframe>
+									<!--[if !IE]><!-->
+					<script>
+						document.addEventListener('DOMContentLoaded', function () {
+							var commentForms = document.getElementsByClassName('jetpack_remote_comment');
+							for (var i = 0; i < commentForms.length; i++) {
+								commentForms[i].allowTransparency = true;
+								commentForms[i].scrolling = 'no';
+							}
+						});
+					</script>
+					<!--<![endif]-->
+							</form>
+		</div>
+
+		
+		<input type="hidden" name="comment_parent" id="comment_parent" value="" />
+
+		</div>					</div>
+				</div>
+
+				
+<div class="jeg_sidebar  jeg_sticky_sidebar col-md-4">
+    <div class="jegStickyHolder"><div class="theiaStickySidebar"><div class="widget widget_jnews_module_element_ads" id="jnews_module_element_ads-3"><div  class='jeg_ad jeg_ad_module jnews_module_500234_2_685b4677a0148   '><div class='ads-wrapper'><a href='https://arrahmahpeduli.amalsholeh.com/support-dakwah-media-arrahmah' aria-label="Visit advertisement link" target='_blank' rel="nofollow noopener" class='adlink ads_image '>
+								<img src='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png' class='lazyload' data-src='https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah2-1.jpg?fit=1280%2C1280&ssl=1' alt='' data-pin-no-hover="true">
+							</a><a href='https://arrahmahpeduli.amalsholeh.com/support-dakwah-media-arrahmah' aria-label="Visit advertisement link" target='_blank' rel="nofollow noopener" class='adlink ads_image_tablet '>
+								<img src='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png' class='lazyload' data-src='https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah2-1.jpg?fit=1280%2C1280&ssl=1' alt='' data-pin-no-hover="true">
+							</a><a href='https://arrahmahpeduli.amalsholeh.com/support-dakwah-media-arrahmah' aria-label="Visit advertisement link" target='_blank' rel="nofollow noopener" class='adlink ads_image_phone '>
+								<img src='https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png' class='lazyload' data-src='https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/10/dukung-arrahmah2-1.jpg?fit=1280%2C1280&ssl=1' alt='' data-pin-no-hover="true">
+							</a></div></div></div><div class="widget_text widget widget_custom_html" id="custom_html-3"><div class="textwidget custom-html-widget"><iframe src="//www.arrahmah.id/jadwal-shalat/?bg=097900"
+      scrolling="no" width="100%" height="200" frameborder="no"
+      framespacing="0"></iframe></div></div><div class="widget widget_jnews_module_block_21" id="jnews_module_block_21-2"><div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_500234_3_685b4677a07f9  normal " data-unique="jnews_module_500234_3_685b4677a07f9">
+					<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Berita Terbaru</span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/" aria-label="Read article: Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="739" height="415" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global" decoding="async" loading="lazy" sizes="auto, (max-width: 739px) 100vw, 739px" data-attachment-id="500227" data-permalink="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/images-13-20/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-orig-size="739,415" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (13)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=300%2C168&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?fit=739%2C415&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?w=739&amp;ssl=1 739w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-13.jpeg?resize=300%2C168&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/">Pengamat: Eskalasi Perang Timur Tengah Picu Kenaikan Minyak dan Ancaman Ekonomi Global</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/pengamat-eskalasi-perang-timur-tengah-picu-kenaikan-minyak-dan-ancaman-ekonomi-global/" ><i class="fa fa-clock-o"></i> 10 jam ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/" aria-label="Read article: KPK Periksa Ustadz Khalid Basalamah Terkait Dugaan Korupsi Kuota Haji 2025"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="678" height="452" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="KPK Periksa Ustadz Khalid Basalamah Terkait Dugaan Korupsi Kuota Haji 2025" decoding="async" loading="lazy" sizes="auto, (max-width: 678px) 100vw, 678px" data-attachment-id="500224" data-permalink="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/images-12-24/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-orig-size="678,452" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (12)" data-image-description="" data-image-caption="" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?fit=678%2C452&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?w=678&amp;ssl=1 678w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-12.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/">KPK Periksa Ustadz Khalid Basalamah Terkait Dugaan Korupsi Kuota Haji 2025</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/kpk-periksa-ustadz-khalid-basalamah-terkait-dugaan-korupsi-kuota-haji-2025/" ><i class="fa fa-clock-o"></i> 11 jam ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" aria-label="Read article: Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="291" height="173" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran" decoding="async" loading="lazy" data-attachment-id="500221" data-permalink="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/images-4-32/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-orig-size="291,173" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="images (4)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/images-4.jpeg?fit=291%2C173&amp;ssl=1" data-srcset="" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/">Sejak Awal Konflik dengan &#8220;Israel&#8221;, 610 Orang Tewas di Iran</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/sejak-awal-konflik-dengan-israel-610-orang-tewas-di-iran/" ><i class="fa fa-clock-o"></i> 13 jam ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/" aria-label="Read article: Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="440" height="295" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan" decoding="async" loading="lazy" sizes="auto, (max-width: 440px) 100vw, 440px" data-attachment-id="500218" data-permalink="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/new-project_3/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-orig-size="440,295" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="New Project_3" data-image-description="" data-image-caption="&lt;p&gt;(Foto: Tolo News)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=300%2C201&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?fit=440%2C295&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?w=440&amp;ssl=1 440w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/New-Project_3.png?resize=300%2C201&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/">Muttaqi Mengkritik AS Atas Pembekuan Aset Afghanistan dan Meminta untuk Dibebaskan</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/muttaqi-mengkritik-as-atas-pembekuan-aset-afghanistan-dan-meminta-untuk-dibebaskan/" ><i class="fa fa-clock-o"></i> 13 jam ago</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" aria-label="Read article: Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="599" height="399" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata" decoding="async" loading="lazy" sizes="auto, (max-width: 599px) 100vw, 599px" data-attachment-id="500215" data-permalink="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/download-67/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-orig-size="599,399" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="download (67)" data-image-description="" data-image-caption="&lt;p&gt;(Foto: AP)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=300%2C200&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?fit=599%2C399&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?w=599&amp;ssl=1 599w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/download-67.jpeg?resize=300%2C200&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/">Di tengah Gelombang Serangan Rudal, &#8220;Israel&#8221; dan Iran Sepakati Gencatan Senjata</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/di-tengah-gelombang-serangan-rudal-israel-dan-iran-sepakati-gencatan-senjata/" ><i class="fa fa-clock-o"></i> 14 jam ago</a></div></div>
+                    </div>
+                </article></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_500234_3_685b4677a07f9 = {"compatible_column_notice":"info","header_icon":"","first_title":"Berita Terbaru","second_title":"","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"All","sticky_post":false,"post_type":"post","content_type":"all","sponsor":"0","number_post":"5","post_offset":"0","unique_content":"unique5","include_post":"","included_only":"0","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"latest","date_format":"ago","date_format_custom":"Y\/m\/d","force_normal_image_load":"1","main_custom_image_size":"default","pagination_mode":"disable","pagination_nextprev_showtext":"0","pagination_number_post":"6","pagination_scroll_limit":"0","boxed":"0","boxed_shadow":"0","el_id":"","el_class":"","scheme":"normal","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_21"};</script>
+				</div></div><div class="widget widget_jnews_module_block_21" id="jnews_module_block_21-1"><div  class="jeg_postblock_21 jeg_postblock jeg_module_hook jeg_pagination_disable jeg_col_1o3 jnews_module_500234_4_685b4677a4436  normal " data-unique="jnews_module_500234_4_685b4677a4436">
+					<div class="jeg_block_heading jeg_block_heading_8 jeg_subcat_right">
+                     <h3 class="jeg_block_title"><span>Rekomendasi</span></h3>
+                     
+                 </div>
+					<div class="jeg_block_container">
+                    
+                    <div class="jeg_posts jeg_load_more_flag"><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/beberapa-negara-mengevakuasi-warganya-dari-iran/" aria-label="Read article: Beberapa Negara Mengevakuasi Warganya dari Iran"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="670" height="391" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Beberapa Negara Mengevakuasi Warganya dari Iran" decoding="async" loading="lazy" sizes="auto, (max-width: 670px) 100vw, 670px" data-attachment-id="499740" data-permalink="https://www.arrahmah.id/beberapa-negara-mengevakuasi-warganya-dari-iran/aftermath-of-missile-attack-from-iran-on-israel/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?fit=670%2C391&amp;ssl=1" data-orig-size="670,391" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;REUTERS&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;People with foreign nationalities gather to leave Israel on buses via Egypt, following a missile attack from Iran, in Tel Aviv, Israel, June 17, 2025. REUTERS\/Ronen Zvulun&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;Aftermath of missile attack from Iran on Israel&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Aftermath of missile attack from Iran on Israel" data-image-description="" data-image-caption="&lt;p&gt;Orang-orang berkewarganegaraan asing berkumpul untuk meninggalkan &#8220;Israel&#8221; dengan bus melalui Mesir, setelah serangan rudal dari Iran, di Tel Aviv, &#8220;Israel&#8221;, 17 Juni 2025. (Foto: Reuters)&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?fit=300%2C175&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?fit=670%2C391&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?fit=670%2C391&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?w=670&amp;ssl=1 670w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/4612609-198765600.jpg?resize=300%2C175&amp;ssl=1 300w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/beberapa-negara-mengevakuasi-warganya-dari-iran/">Beberapa Negara Mengevakuasi Warganya dari Iran</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/beberapa-negara-mengevakuasi-warganya-dari-iran/" ><i class="fa fa-clock-o"></i> Rab, 18 Juni 2025 / 22 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/bom-bunuh-diri-guncang-damaskus-20-orang-tewas/" aria-label="Read article: Bom Bunuh Diri Guncang Damaskus, 20 Orang Tewas"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="1280" height="720" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Bom Bunuh Diri Guncang Damaskus, 20 Orang Tewas" decoding="async" loading="lazy" sizes="auto, (max-width: 1280px) 100vw, 1280px" data-attachment-id="500089" data-permalink="https://www.arrahmah.id/bom-bunuh-diri-guncang-damaskus-20-orang-tewas/bom-bunuh-diri-guncang-damaskus-20-orang-tewas/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Bom Bunuh Diri Guncang Damaskus, 20 Orang Tewas" data-image-description="" data-image-caption="&lt;p&gt;Orang-orang memeriksa kerusakan di lokasi dugaan serangan bunuh diri di gereja Saint Elias di Damaskus. [Foto: AFP]&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?fit=1280%2C720&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?w=1280&amp;ssl=1 1280w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?resize=750%2C422&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Bom-Bunuh-Diri-Guncang-Damaskus-20-Orang-Tewas.jpg?resize=1140%2C641&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/bom-bunuh-diri-guncang-damaskus-20-orang-tewas/">Bom Bunuh Diri Guncang Damaskus, 20 Orang Tewas</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/bom-bunuh-diri-guncang-damaskus-20-orang-tewas/" ><i class="fa fa-clock-o"></i> Sen, 23 Juni 2025 / 27 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/ciut-diserang-iran-tentara-israel-rampas-rumah-warga-palestina-untuk-sembunyi/" aria-label="Read article: Ciut Diserang Iran, Tentara &#8216;Israel&#8217; Rampas Rumah Warga Palestina untuk Sembunyi"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="1280" height="720" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Ciut Diserang Iran, Tentara &#8216;Israel&#8217; Rampas Rumah Warga Palestina untuk Sembunyi" decoding="async" loading="lazy" sizes="auto, (max-width: 1280px) 100vw, 1280px" data-attachment-id="499982" data-permalink="https://www.arrahmah.id/ciut-diserang-iran-tentara-israel-rampas-rumah-warga-palestina-untuk-sembunyi/ciut-diserang-iran-tentara-israel-rampas-rumah-warga-palestina-untuk-sembunyi/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?fit=1280%2C720&amp;ssl=1" data-orig-size="1280,720" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ciut Diserang Iran, Tentara &#8216;Israel&#8217; Rampas Rumah Warga Palestina untuk Sembunyi" data-image-description="" data-image-caption="&lt;p&gt;Tentara Israel memaksa warga Palestina keluar rumahnya di tepi Barat, 18 Juni 2025. [Foto: The Jerusalem Post]&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?fit=300%2C169&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?fit=1024%2C576&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?fit=1280%2C720&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?w=1280&amp;ssl=1 1280w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?resize=300%2C169&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?resize=1024%2C576&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?resize=768%2C432&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?resize=750%2C422&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ciut-Diserang-Iran-Tentara-Israel-Rampas-Rumah-Warga-Palestina-untuk-Sembunyi.webp?resize=1140%2C641&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/ciut-diserang-iran-tentara-israel-rampas-rumah-warga-palestina-untuk-sembunyi/">Ciut Diserang Iran, Tentara &#8216;Israel&#8217; Rampas Rumah Warga Palestina untuk Sembunyi</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/ciut-diserang-iran-tentara-israel-rampas-rumah-warga-palestina-untuk-sembunyi/" ><i class="fa fa-clock-o"></i> Sab, 21 Juni 2025 / 25 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article><article class="jeg_post jeg_pl_sm format-standard">
+                    <div class="jeg_thumb">
+                        
+                        <a href="https://www.arrahmah.id/ada-apa-tiba-tiba-pesawat-cina-masuk-ke-iran/" aria-label="Read article: Ada Apa Tiba-tiba Pesawat Cina Masuk ke Iran?"><div class="thumbnail-container animate-lazy custom-size size-715 "><img width="1439" height="703" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" class="attachment-full size-full lazyload wp-post-image" alt="Ada Apa Tiba-tiba Pesawat Cina Masuk ke Iran?" decoding="async" loading="lazy" sizes="auto, (max-width: 1439px) 100vw, 1439px" data-attachment-id="500092" data-permalink="https://www.arrahmah.id/ada-apa-tiba-tiba-pesawat-cina-masuk-ke-iran/ada-apa-tiba-tiba-pesawat-cina-masuk-ke-iran/" data-orig-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?fit=1439%2C703&amp;ssl=1" data-orig-size="1439,703" data-comments-opened="1" data-image-meta="{&quot;aperture&quot;:&quot;0&quot;,&quot;credit&quot;:&quot;&quot;,&quot;camera&quot;:&quot;&quot;,&quot;caption&quot;:&quot;&quot;,&quot;created_timestamp&quot;:&quot;0&quot;,&quot;copyright&quot;:&quot;&quot;,&quot;focal_length&quot;:&quot;0&quot;,&quot;iso&quot;:&quot;0&quot;,&quot;shutter_speed&quot;:&quot;0&quot;,&quot;title&quot;:&quot;&quot;,&quot;orientation&quot;:&quot;0&quot;}" data-image-title="Ada Apa Tiba-tiba Pesawat Cina Masuk ke Iran" data-image-description="" data-image-caption="&lt;p&gt;Tangkapan layar Flightradar24. [foto: X]&lt;/p&gt;
+" data-medium-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?fit=300%2C147&amp;ssl=1" data-large-file="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?fit=1024%2C500&amp;ssl=1" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?fit=1439%2C703&amp;ssl=1" data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?w=1439&amp;ssl=1 1439w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?resize=300%2C147&amp;ssl=1 300w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?resize=1024%2C500&amp;ssl=1 1024w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?resize=768%2C375&amp;ssl=1 768w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?resize=750%2C366&amp;ssl=1 750w, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2025/06/Ada-Apa-Tiba-tiba-Pesawat-Cina-Masuk-ke-Iran.jpg?resize=1140%2C557&amp;ssl=1 1140w" data-sizes="auto" data-expand="700" /></div></a>
+                    </div>
+                    <div class="jeg_postblock_content">
+                        <h3 class="jeg_post_title">
+                            <a href="https://www.arrahmah.id/ada-apa-tiba-tiba-pesawat-cina-masuk-ke-iran/">Ada Apa Tiba-tiba Pesawat Cina Masuk ke Iran?</a>
+                        </h3>
+                        <div class="jeg_post_meta"><div class="jeg_meta_date"><a href="https://www.arrahmah.id/ada-apa-tiba-tiba-pesawat-cina-masuk-ke-iran/" ><i class="fa fa-clock-o"></i> Sen, 23 Juni 2025 / 27 Dzulhijjah 1446</a></div></div>
+                    </div>
+                </article></div>
+                    <div class='module-overlay'>
+				    <div class='preloader_type preloader_dot'>
+				        <div class="module-preloader jeg_preloader dot">
+				            <span></span><span></span><span></span>
+				        </div>
+				        <div class="module-preloader jeg_preloader circle">
+				            <div class="jnews_preloader_circle_outer">
+				                <div class="jnews_preloader_circle_inner"></div>
+				            </div>
+				        </div>
+				        <div class="module-preloader jeg_preloader square">
+				            <div class="jeg_square">
+				                <div class="jeg_square_inner"></div>
+				            </div>
+				        </div>
+				    </div>
+				</div>
+                </div>
+                <div class="jeg_block_navigation">
+                    <div class='navigation_overlay'><div class='module-preloader jeg_preloader'><span></span><span></span><span></span></div></div>
+                    
+                    
+                </div>
+					
+					<script>var jnews_module_500234_4_685b4677a4436 = {"compatible_column_notice":"info","header_icon":"","first_title":"Rekomendasi","second_title":"","url":"","header_type":"heading_8","header_background":"","header_secondary_background":"","header_text_color":"","header_line_color":"","header_accent_color":"","header_filter_category":"","header_filter_author":"","header_filter_tag":"","header_filter_text":"","sticky_post":false,"post_type":"post","content_type":"post","sponsor":"0","number_post":"4","post_offset":"","unique_content":"disable","include_post":"","included_only":"0","exclude_post":"","include_category":"","exclude_category":"","include_author":"","include_tag":"","exclude_tag":"","sort_by":"random_week","date_format":"default","date_format_custom":"","force_normal_image_load":"1","main_custom_image_size":"default","pagination_mode":"disable","pagination_nextprev_showtext":"0","pagination_number_post":"1","pagination_scroll_limit":"","boxed":"0","boxed_shadow":"0","el_id":"","el_class":"","scheme":"normal","column_width":"auto","title_color":"","accent_color":"","alt_color":"","excerpt_color":"","css":"","paged":1,"column_class":"jeg_col_1o3","class":"jnews_block_21"};</script>
+				</div></div></div></div></div>			</div>
+
+		
+		<div class="jeg_ad jeg_article jnews_article_bottom_ads">
+			<div class='ads-wrapper  '></div>		</div>
+
+	</div>
+</div>
+                </div>
+            </div>
+
+            <div id="post-body-class" class="post-template-default single single-post postid-500234 single-format-standard wp-custom-logo wp-embed-responsive jeg_toggle_light jeg_single_tpl_8 jnews jeg-mobile-table-scrollable jsc_normal wpb-js-composer js-comp-ver-8.2 vc_responsive aa-prefix-arrah-"></div>
+
+            
+        </div>
+
+        <div class="post-ajax-overlay">
+    <div class="preloader_type preloader_dot">
+        <div class="newsfeed_preloader jeg_preloader dot">
+            <span></span><span></span><span></span>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader circle">
+            <div class="jnews_preloader_circle_outer">
+                <div class="jnews_preloader_circle_inner"></div>
+            </div>
+        </div>
+        <div class="newsfeed_preloader jeg_preloader square">
+            <div class="jeg_square"><div class="jeg_square_inner"></div></div>
+        </div>
+    </div>
+</div>
+    </div>
+		<div class="footer-holder" id="footer" data-id="footer">
+			<div class="jeg_footer jeg_footer_3 normal">
+    <div class="jeg_footer_container jeg_container">
+        <div class="jeg_footer_content">
+            <div class="container">
+                <div class="row">
+                    <div class="jeg_footer_primary clearfix">
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_jnews_about" id="jnews_about-1">        <div class="jeg_about ">
+			                <a class="footer_logo" href="https://www.arrahmah.id/">
+                    <img class='lazyload'
+                         src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/img/jeg-empty.png" data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png?fit=288%2C50&#038;ssl=1"  data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png?fit=288%2C50&#038;ssl=1 1x, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png?fit=575%2C100&#038;ssl=1 2x" alt="Arrahmah.id"  data-light-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png?fit=288%2C50&#038;ssl=1"  data-light-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-es-1.png?fit=288%2C50&#038;ssl=1 1x, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-s.png?fit=575%2C100&#038;ssl=1 2x"  data-dark-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png?fit=288%2C50&#038;ssl=1"  data-dark-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-esw.png?fit=288%2C50&#038;ssl=1 1x, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2023/07/Arrahmah.ID-sw.png?fit=575%2C100&#038;ssl=1 2x"                         data-pin-no-hover="true">
+                </a>
+						                <h2 class="jeg_about_name">Part of</h2>			            <p></p>
+
+			                <div class="jeg_about_autograph">
+                    <img class='lazyload' data-src="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmah-media-network.png?fit=287%2C135&#038;ssl=1"
+                         data-srcset="https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmah-media-network.png?fit=287%2C135&#038;ssl=1 1x, https://i0.wp.com/www.arrahmah.id/wp/images/stories/2022/12/arrahmah-media-network.png?fit=287%2C135&#038;ssl=1 2x"
+                         alt="Part of">
+                </div>
+			        </div>
+		</div><div class="footer_widget widget_jnews_social" id="jnews_social-3"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Connect With Us</span></h3></div>
+		<div class="jeg_social_wrap ">
+			
+			<div class="socials_widget   nobg">
+				<a href="https://www.facebook.com/profile.php?id=61552187192975" target="_blank" rel="external noopener nofollow" aria-label="Find us on Facebook" class="jeg_facebook">
+                                            <i class="fa fa-facebook"></i>
+                                            
+                                        </a><a href="https://twitter.com/arrahmah" target="_blank" rel="external noopener nofollow" aria-label="Find us on Twitter" class="jeg_twitter">
+											<i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></span></i>
+											
+										</a><a href="https://instagram.com/arrahmah.id" target="_blank" rel="external noopener nofollow" aria-label="Find us on Instagram" class="jeg_instagram">
+                                            <i class="fa fa-instagram"></i>
+                                            
+                                        </a><a href="https://telegram.me/arrahmahcom" target="_blank" rel="external noopener nofollow" aria-label="Find us on Telegram" class="jeg_telegram">
+                                            <i class="fa fa-telegram"></i>
+                                            
+                                        </a><a href="https://www.youtube.com/@arrahmahdotid" target="_blank" rel="external noopener nofollow" aria-label="Find us on Youtube" class="jeg_youtube">
+                                            <i class="fa fa-youtube-play"></i>
+                                            
+                                        </a>			</div>
+
+						<style scoped></style>		</div>
+
+		</div><div class="footer_widget widget_jnews_social_counter" id="jnews_social_counter-4"><ul class="jeg_socialcounter col1 colored">
+                <li class="jeg_twitter">
+                <a href="https://www.twitter.com/arrahmah/" target="_blank"><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i></i>
+                    <span>71.1k</span>
+                    <small>Followers</small>
+                </a>
+            </li>
+            </ul></div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_nav_menu" id="nav_menu-5"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Arrahmah News</span></h3></div><div class="menu-kategori-news-container"><ul id="menu-kategori-news" class="menu"><li id="menu-item-452638" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-452638"><a href="https://www.arrahmah.id/kanal/news/internasional/">Internasional</a></li>
+<li id="menu-item-452634" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452634"><a href="https://www.arrahmah.id/kanal/news/nasional/">Nasional</a></li>
+<li id="menu-item-452630" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452630"><a href="https://www.arrahmah.id/kanal/news/depth/">Depth</a></li>
+<li id="menu-item-452633" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452633"><a href="https://www.arrahmah.id/kanal/news/feature/">Feature</a></li>
+<li id="menu-item-452632" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452632"><a href="https://www.arrahmah.id/kanal/news/editorial/">Editorial</a></li>
+<li id="menu-item-452637" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452637"><a href="https://www.arrahmah.id/kanal/news/teknologi/">Teknologi</a></li>
+<li id="menu-item-452631" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452631"><a href="https://www.arrahmah.id/kanal/news/ekonomi/">Ekonomi</a></li>
+<li id="menu-item-452636" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452636"><a href="https://www.arrahmah.id/kanal/news/medis/">Medis</a></li>
+<li id="menu-item-452843" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452843"><a href="https://www.arrahmah.id/kanal/news/weekly-report/">Weekly Report</a></li>
+</ul></div></div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_nav_menu" id="nav_menu-6"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Kajian Islam</span></h3></div><div class="menu-kategori-kajian-container"><ul id="menu-kategori-kajian" class="menu"><li id="menu-item-452648" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452648"><a href="https://www.arrahmah.id/kanal/kajian-islam/tauhid/">Tauhid</a></li>
+<li id="menu-item-452647" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452647"><a href="https://www.arrahmah.id/kanal/kajian-islam/syariah/">Syariah</a></li>
+<li id="menu-item-452641" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452641"><a href="https://www.arrahmah.id/kanal/kajian-islam/fatwa-tanya-jawab/">Fatwa &amp; Tanya Jawab</a></li>
+<li id="menu-item-452645" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452645"><a href="https://www.arrahmah.id/kanal/kajian-islam/miracle-of-quran-sunnah/">Miracle of Quran &amp; Sunnah</a></li>
+<li id="menu-item-452642" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452642"><a href="https://www.arrahmah.id/kanal/kajian-islam/hadits/">Hadits</a></li>
+<li id="menu-item-452640" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452640"><a href="https://www.arrahmah.id/kanal/kajian-islam/doa-dzikir/">Doa &amp; Dzikir</a></li>
+<li id="menu-item-452639" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452639"><a href="https://www.arrahmah.id/kanal/kajian-islam/akhir-zaman/">Akhir Zaman</a></li>
+<li id="menu-item-452643" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452643"><a href="https://www.arrahmah.id/kanal/kajian-islam/hakekat-syiah/">Hakekat Syi&#8217;ah</a></li>
+<li id="menu-item-452646" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452646"><a href="https://www.arrahmah.id/kanal/kajian-islam/sirah/">Sirah Salaf</a></li>
+<li id="menu-item-452649" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452649"><a href="https://www.arrahmah.id/kanal/kajian-islam/tausiyah/">Tausiyah</a></li>
+<li id="menu-item-452844" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452844"><a href="https://www.arrahmah.id/kanal/kajian-islam/kajian-jihad/">Kajian Jihad</a></li>
+</ul></div></div>                        </div>
+
+                        <div class="col-md-3 footer_column">
+                            <div class="footer_widget widget_nav_menu" id="nav_menu-8"><div class="jeg_footer_heading jeg_footer_heading_1"><h3 class="jeg_footer_title"><span>Rubrik &#038; Kontribusi</span></h3></div><div class="menu-kategori-rubrik-container"><ul id="menu-kategori-rubrik" class="menu"><li id="menu-item-452653" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452653"><a href="https://www.arrahmah.id/kanal/rubrik/artikel/">Artikel</a></li>
+<li id="menu-item-452654" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452654"><a href="https://www.arrahmah.id/kanal/rubrik/kisah-teladan/">Kisah &amp; Teladan</a></li>
+<li id="menu-item-452655" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452655"><a href="https://www.arrahmah.id/kanal/rubrik/review/">Review</a></li>
+<li id="menu-item-452656" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452656"><a href="https://www.arrahmah.id/kanal/rubrik/sejarah/">Sejarah</a></li>
+<li id="menu-item-452651" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452651"><a href="https://www.arrahmah.id/kanal/kolom/">Kolom</a></li>
+<li id="menu-item-452652" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452652"><a href="https://www.arrahmah.id/kanal/redaksi/">Redaksi</a></li>
+</ul></div></div><div class="footer_widget widget_nav_menu" id="nav_menu-7"><div class="menu-kategori-kontribusi-container"><ul id="menu-kategori-kontribusi" class="menu"><li id="menu-item-452660" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452660"><a href="https://www.arrahmah.id/kanal/kontribusi/opini/">Opini</a></li>
+<li id="menu-item-452657" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452657"><a href="https://www.arrahmah.id/kanal/kontribusi/citizen-journalism/">Citizen Journalism</a></li>
+<li id="menu-item-452661" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452661"><a href="https://www.arrahmah.id/kanal/kontribusi/readers-voice/">Reader&#8217;s Voice</a></li>
+<li id="menu-item-452659" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452659"><a href="https://www.arrahmah.id/kanal/kontribusi/kisah-pembaca/">Kisah Pembaca</a></li>
+<li id="menu-item-452658" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452658"><a href="https://www.arrahmah.id/kanal/kontribusi/event/">Event</a></li>
+</ul></div></div>                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        
+        <div class="jeg_footer_bottom clearfix">
+            <div class="container">
+
+                <!-- secondary footer right -->
+
+                <div class="footer_right">
+
+                    <ul class="jeg_menu_footer"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354284"><a href="https://www.arrahmah.id/about/">About</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388917"><a href="https://www.arrahmah.id/about/redaksi/">Redaksi</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-392847"><a href="https://donasi.arrahmah.id/">Donasi</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-354280"><a href="https://www.arrahmah.id/about/disclaimer/">Disclaimer</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-388859"><a href="https://www.arrahmah.id/about/copyright/">Copyright</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-354278"><a rel="privacy-policy" href="https://www.arrahmah.id/pedoman-media-siber/">Pedoman Media Siber</a></li>
+</ul>
+                    
+                    
+                </div>
+
+                <!-- secondary footer left -->
+
+                
+                
+                                    <p class="copyright"> © Copyright 2005 - 2025 Arrahmah Media Network. All rights reserved.  </p>
+                
+            </div>
+        </div>
+
+            </div>
+</div><!-- /.footer -->		</div>
+					<div class="jscroll-to-top desktop">
+				<a href="#back-to-top" class="jscroll-to-top_link"><i class="fa fa-angle-up"></i></a>
+			</div>
+			</div>
+
+	<!-- Login Popup Content -->
+<div id="jeg_loginform" class="jeg_popup mfp-with-anim mfp-hide">
+    <div class="jeg_popupform jeg_popup_account">
+        <form action="#" data-type="login" method="post" accept-charset="utf-8">
+            <h3>Welcome Back!</h3>            <p>Login to your account below</p>
+
+            <!-- Form Messages -->
+            <div class="form-message"></div>
+            <p class="input_field">
+                <input type="text" name="username" placeholder="Username" value="">
+            </p>
+            <p class="input_field">
+                <input type="password" name="password" placeholder="Password" value="">
+            </p>
+            <p class="input_field remember_me">
+                <input type="checkbox" id="remember_me" name="remember_me" value="true">
+                <label for="remember_me">Remember Me</label>
+            </p>
+						<p class="submit">
+                <input type="hidden" name="action" value="login_handler">
+                <input type="hidden" name="jnews_nonce" value="8f8fd1f69c">
+                <input type="submit" name="jeg_login_button" class="button" value="Log In" data-process="Processing . . ." data-string="Log In">
+            </p>
+            <div class="bottom_links clearfix">
+                <a href="#jeg_forgotform" class="jeg_popuplink forgot">Forgotten Password?</a>
+                            </div>
+        </form>
+    </div>
+</div>
+
+
+<!-- Forgot Password Popup Content -->
+<div id="jeg_forgotform" class="jeg_popup mfp-with-anim mfp-hide">
+    <div class="jeg_popupform jeg_popup_account">
+        <form action="#" data-type="forgot" method="post" accept-charset="utf-8">
+            <h3>Retrieve your password</h3>
+            <p>Please enter your username or email address to reset your password.</p>
+
+            <!-- Form Messages -->
+            <div class="form-message"></div>
+
+            <p class="input_field">
+                <input type="text" name="user_login" placeholder="Your email or username" value="">
+            </p>
+			<div class="g-recaptcha" data-sitekey=""></div>
+            <p class="submit">
+                <input type="hidden" name="action" value="forget_password_handler">
+                <input type="hidden" name="jnews_nonce" value="8f8fd1f69c">
+                <input type="submit" name="jeg_login_button" class="button" value="Reset Password" data-process="Processing . . ." data-string="Reset Password">
+            </p>
+            <div class="bottom_links clearfix">
+                <a href="#jeg_loginform" aria-label="" class="jeg_popuplink"><i class="fa fa-lock"></i> Log In</a>
+            </div>
+        </form>
+    </div>
+</div>
+<script type="text/javascript">var jfla = ["view_counter"]</script><div id="jeg_playlist" class="jeg_popup create_playlist mfp-with-anim mfp-hide">
+	<div class="jeg_popupform jeg_popupform_playlist">
+		<form action="#" method="post" accept-charset="utf-8">
+			<h3>Add New Playlist</h3>
+
+			<!-- Form Messages -->
+			<div class="form-message"></div>
+
+			<div class="form-group">
+				<p class="input_field">
+					<input type="text" name="title"
+						   placeholder="Playlist Name"
+						   value="">
+				</p>
+				<p class="input_field">
+					<select name='visibility'><option disabled selected='selected' value=''>- Select Visibility -</option><option value='public' >Public</option><option value='private' >Private</option></select>				</p>
+				<!-- submit button -->
+				<div class="submit">
+					<input type="hidden" name="type" value="create_playlist">
+					<input type="hidden" name="action" value="playlist_handler">
+					<input type="hidden" name="post_id" value="">
+					<input type="hidden" name="jnews-playlist-nonce"
+						   value="b52823cce9">
+					<input type="submit" name="jeg_save_button" class="button"
+						   value="Save"
+						   data-process="Processing . . ."
+						   data-string="Save">
+				</div>
+			</div>
+
+
+		</form>
+	</div>
+</div>
+
+<div id="notification_action_renderer" class="jeg_popup_container">
+	<div id="paper_toast">
+		<span id="label"></span>
+	</div>
+</div>
+<div id="selectShareContainer">
+                        <div class="selectShare-inner">
+                            <div class="select_share jeg_share_button">              
+                                <button class="select-share-button jeg_btn-facebook" data-url="http://www.facebook.com/sharer.php?u=[url]&quote=[selected_text]" data-post-url="https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" data-image-url="" data-title="%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99" ><i class="fa fa-facebook-official"></i></a><button class="select-share-button jeg_btn-twitter" data-url="https://twitter.com/intent/tweet?text=[selected_text]&url=[url]" data-post-url="https%3A%2F%2Fwww.arrahmah.id%2Fisrael-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga%2F" data-image-url="" data-title="%E2%80%98Israel%E2%80%99%20Dilarang%20Ganggu%20Gencatan%20Senjata%20dengan%20Iran%2C%20Trump%3A%20%E2%80%98Tarik%20Pilot%20Kalian%20Sekarang%20Juga%21%E2%80%99%20via%20%40arrahmah" ><i class="fa fa-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></i></a>
+                            </div>
+                            <div class="selectShare-arrowClip">
+                                <div class="selectShare-arrow"></div>      
+                            </div> 
+                        </div>      
+                      </div><!-- Mobile Navigation
+    ============================================= -->
+<div id="jeg_off_canvas" class="normal">
+    <a href="#" class="jeg_menu_close"><i class="jegicon-cross"></i></a>
+    <div class="jeg_bg_overlay"></div>
+    <div class="jeg_mobile_wrapper">
+        <div class="nav_wrap">
+    <div class="item_main">
+        <!-- Search Form -->
+<div class="jeg_aside_item jeg_search_wrapper jeg_search_no_expand rounded">
+    <a href="#" aria-label="Search Button" class="jeg_search_toggle"><i class="fa fa-search"></i></a>
+    <form action="https://www.arrahmah.id/" method="get" class="jeg_search_form" target="_top">
+    <input name="s" class="jeg_search_input" placeholder="Search..." type="text" value="" autocomplete="off">
+	<button aria-label="Search Button" type="submit" class="jeg_search_button btn"><i class="fa fa-search"></i></button>
+</form>
+<!-- jeg_search_hide with_result no_result -->
+<div class="jeg_search_result jeg_search_hide with_result">
+    <div class="search-result-wrapper">
+    </div>
+    <div class="search-link search-noresult">
+        No Result    </div>
+    <div class="search-link search-all-button">
+        <i class="fa fa-search"></i> View All Result    </div>
+</div></div><div class="jeg_aside_item">
+    <ul class="jeg_mobile_menu sf-js-hover"><li class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor menu-item-452809"><a href="https://www.arrahmah.id/kanal/news/">News</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452811"><a href="https://www.arrahmah.id/kanal/rubrik/">Rubrik</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452805"><a href="https://www.arrahmah.id/kanal/kajian-islam/">Kajian Islam</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452807"><a href="https://www.arrahmah.id/kanal/kontribusi/">Kontribusi</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452808"><a href="https://www.arrahmah.id/kanal/muslimah/">Muslimah</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452806"><a href="https://www.arrahmah.id/kanal/kolom/">Kolom</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-452810"><a href="https://www.arrahmah.id/kanal/redaksi/">Redaksi</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-452819"><a href="https://arrahmahvideo.com/">Video</a></li>
+</ul></div>    </div>
+    <div class="item_bottom">
+        <div class="jeg_aside_item socials_widget nobg">
+    <a href="https://www.whatsapp.com/channel/0029VaDtrFx3gvWc9mJ0Wt3M" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Whatsapp" class="jeg_whatsapp"><i class="fa fa-whatsapp"></i> </a><a href="https://twitter.com/arrahmah" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Twitter" class="jeg_twitter"><i class="fa fa-twitter"><span class="jeg-icon icon-twitter"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 512 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M389.2 48h70.6L305.6 224.2 487 464H345L233.7 318.6 106.5 464H35.8L200.7 275.5 26.8 48H172.4L272.9 180.9 389.2 48zM364.4 421.8h39.1L151.1 88h-42L364.4 421.8z"/></svg></span></i> </a><a href="https://instagram.com/beritaarrahmah" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Instagram" class="jeg_instagram"><i class="fa fa-instagram"></i> </a><a href="https://telegram.me/arrahmahcom" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Telegram" class="jeg_telegram"><i class="fa fa-telegram"></i> </a><a href="https://www.tiktok.com/@arrahmahinside" target='_blank' rel='external noopener nofollow'  aria-label="Find us on TikTok" class="jeg_tiktok"><span class="jeg-icon icon-tiktok"><svg xmlns="http://www.w3.org/2000/svg" height="1em" viewBox="0 0 448 512"><!--! Font Awesome Free 6.4.2 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) Copyright 2023 Fonticons, Inc. --><path d="M448,209.91a210.06,210.06,0,0,1-122.77-39.25V349.38A162.55,162.55,0,1,1,185,188.31V278.2a74.62,74.62,0,1,0,52.23,71.18V0l88,0a121.18,121.18,0,0,0,1.86,22.17h0A122.18,122.18,0,0,0,381,102.39a121.43,121.43,0,0,0,67,20.14Z"/></svg></span> </a><a href="https://youtube.com/@arrahmah_id" target='_blank' rel='external noopener nofollow'  aria-label="Find us on Youtube" class="jeg_youtube"><i class="fa fa-youtube-play"></i> </a><a href="https://thexapp.app.link/b424V8Oo1Fb" target='_blank' rel='external noopener nofollow'  aria-label="Find us on VK" class="jeg_vk"><i class="fa fa-vk"></i> </a></div><div class="jeg_aside_item jeg_aside_copyright">
+	<p>© Copyright 2005 - 2025 Arrahmah Media Network. All rights reserved. </p>
+</div>    </div>
+</div>    </div>
+</div><div class="jeg_read_progress_wrapper"></div><script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=6.0.6" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-before">
+/* <![CDATA[ */
+var wpcf7 = {
+    "api": {
+        "root": "https:\/\/www.arrahmah.id\/wp-json\/",
+        "namespace": "contact-form-7\/v1"
+    },
+    "cached": 1
+};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/contact-form-7/includes/js/index.js?ver=6.0.6" id="contact-form-7-js"></script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/jnews-like/assets/js/plugin.js?ver=11.6.0" id="jnews-like-js"></script>
+<script type="text/javascript" id="jquery.wp-smartcrop-js-extra">
+/* <![CDATA[ */
+var wpsmartcrop_options = {"focus_mode":"power-lines"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/wp-smartcrop/js/jquery.wp-smartcrop.min.js?ver=2.0.10" id="jquery.wp-smartcrop-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/comment-reply.min.js" id="comment-reply-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/hoverIntent.min.js" id="hoverIntent-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/imagesloaded.min.js" id="imagesloaded-js"></script>
+<!--[if lt IE 9]>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/js/html5shiv.min.js?ver=1.0.0" id="html5shiv-js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/jnews-video/assets/js/supposition.js?ver=11.6.2" id="supposition-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/jquery/ui/core.min.js" id="jquery-ui-core-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/jquery/ui/mouse.min.js" id="jquery-ui-mouse-js"></script>
+<script type="text/javascript" src="https://c0.wp.com/c/6.7.2/wp-includes/js/jquery/ui/sortable.min.js" id="jquery-ui-sortable-js"></script>
+<script type="text/javascript" id="jnews-video-js-extra">
+/* <![CDATA[ */
+var jnewsvideo = {"user_playlist":[]};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/jnews-video/assets/js/plugin.js?ver=11.6.2" id="jnews-video-js"></script>
+<script type="text/javascript" id="jnews-frontend-js-extra">
+/* <![CDATA[ */
+var jnewsoption = {"login_reload":"https:\/\/www.arrahmah.id\/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga","popup_script":"magnific","single_gallery":"","ismobile":"1","isie":"","sidefeed_ajax":"","language":"id_ID","module_prefix":"jnews_module_ajax_","live_search":"1","postid":"500234","isblog":"1","admin_bar":"0","follow_video":"1","follow_position":"bottom_right","rtl":"0","gif":"","lang":{"invalid_recaptcha":"Invalid Recaptcha!","empty_username":"Please enter your username!","empty_email":"Please enter your email!","empty_password":"Please enter your password!"},"recaptcha":"0","site_slug":"\/","site_domain":"www.arrahmah.id","zoom_button":"1","dm_cookie_time":"0"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/themes/jnews/assets/dist/frontend.min.js?ver=1.0.0" id="jnews-frontend-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-before">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"47156980\",\"post\":\"500234\",\"tz\":\"7\",\"srv\":\"www.arrahmah.id\",\"j\":\"1:14.4.1\"}") ]);
+_stq.push([ "clickTrackerInit", "47156980", "500234" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://stats.wp.com/e-202526.js" id="jetpack-stats-js" defer="defer" data-wp-strategy="defer"></script>
+<script type="text/javascript" id="jnews-select-share-js-extra">
+/* <![CDATA[ */
+var jnews_select_share = {"is_customize_preview":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/jnews-social-share/assets/js/plugin.js" id="jnews-select-share-js"></script>
+<script defer type="text/javascript" src="https://www.arrahmah.id/wp/wp-content/plugins/akismet/_inc/akismet-frontend.js?ver=1746648022" id="akismet-frontend-js"></script>
+<script></script><script type="module">;/*! instant.page v5.1.1 - (C) 2019-2020 Alexandre Dieulot - https://instant.page/license */
+let t,e;const n=new Set,o=document.createElement("link"),i=o.relList&&o.relList.supports&&o.relList.supports("prefetch")&&window.IntersectionObserver&&"isIntersecting"in IntersectionObserverEntry.prototype,s="instantAllowQueryString"in document.body.dataset,a="instantAllowExternalLinks"in document.body.dataset,r="instantWhitelist"in document.body.dataset,c="instantMousedownShortcut"in document.body.dataset,d=1111;let l=65,u=!1,f=!1,m=!1;if("instantIntensity"in document.body.dataset){const t=document.body.dataset.instantIntensity;if("mousedown"==t.substr(0,9))u=!0,"mousedown-only"==t&&(f=!0);else if("viewport"==t.substr(0,8))navigator.connection&&(navigator.connection.saveData||navigator.connection.effectiveType&&navigator.connection.effectiveType.includes("2g"))||("viewport"==t?document.documentElement.clientWidth*document.documentElement.clientHeight<45e4&&(m=!0):"viewport-all"==t&&(m=!0));else{const e=parseInt(t);isNaN(e)||(l=e)}}if(i){const n={capture:!0,passive:!0};if(f||document.addEventListener("touchstart",(function(t){e=performance.now();const n=t.target.closest("a");h(n)&&v(n.href)}),n),u?c||document.addEventListener("mousedown",(function(t){const e=t.target.closest("a");h(e)&&v(e.href)}),n):document.addEventListener("mouseover",(function(n){if(performance.now()-e<d)return;if(!("closest"in n.target))return;const o=n.target.closest("a");h(o)&&(o.addEventListener("mouseout",p,{passive:!0}),t=setTimeout((()=>{v(o.href),t=void 0}),l))}),n),c&&document.addEventListener("mousedown",(function(t){if(performance.now()-e<d)return;const n=t.target.closest("a");if(t.which>1||t.metaKey||t.ctrlKey)return;if(!n)return;n.addEventListener("click",(function(t){1337!=t.detail&&t.preventDefault()}),{capture:!0,passive:!1,once:!0});const o=new MouseEvent("click",{view:window,bubbles:!0,cancelable:!1,detail:1337});n.dispatchEvent(o)}),n),m){let t;(t=window.requestIdleCallback?t=>{requestIdleCallback(t,{timeout:1500})}:t=>{t()})((()=>{const t=new IntersectionObserver((e=>{e.forEach((e=>{if(e.isIntersecting){const n=e.target;t.unobserve(n),v(n.href)}}))}));document.querySelectorAll("a").forEach((e=>{h(e)&&t.observe(e)}))}))}}function p(e){e.relatedTarget&&e.target.closest("a")==e.relatedTarget.closest("a")||t&&(clearTimeout(t),t=void 0)}function h(t){if(t&&t.href&&(!r||"instant"in t.dataset)&&(a||t.origin==location.origin||"instant"in t.dataset)&&["http:","https:"].includes(t.protocol)&&("http:"!=t.protocol||"https:"!=location.protocol)&&(s||!t.search||"instant"in t.dataset)&&!(t.hash&&t.pathname+t.search==location.pathname+location.search||"noInstant"in t.dataset))return!0}function v(t){if(n.has(t))return;const e=document.createElement("link");e.rel="prefetch",e.href=t,document.head.appendChild(e),n.add(t)}</script><div class="jeg_ad jnews_mobile_sticky_ads "><div class='ads-wrapper  '></div></div><script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"NewsArticle","mainEntityOfPage":{"@type":"WebPage","@id":"https:\/\/www.arrahmah.id\/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga\/"},"dateCreated":"2025-06-25 07:31:58Asia\/Jakarta","datePublished":"2025-06-25 07:31:58Asia\/Jakarta","dateModified":"2025-06-25 00:32:49Asia\/Jakarta","url":"https:\/\/www.arrahmah.id\/israel-dilarang-ganggu-gencatan-senjata-dengan-iran-trump-tarik-pilot-kalian-sekarang-juga\/","headline":"&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;","name":"&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;","articleBody":"<p data-start=\"162\" data-end=\"391\"><strong>GAZA (Arrahmah.id)<\/strong> - Pada Selasa (24\/6\/2025), Presiden AS Donald Trump memperingatkan 'Israel' untuk tidak membombardir Iran, menyebut langkah itu sebagai \u201cpelanggaran berat\u201d terhadap kesepakatan gencatan senjata yang dia umumkan sebelumnya.<\/p>\n\n<p data-start=\"162\" data-end=\"391\">\u201cISRAEL. JANGAN JATUHKAN BOM ITU. KALAU KALIAN LAKUKAN, ITU PELANGGARAN BESAR. TARIK SEMUA PILOT KALIAN PULANG, SEKARANG JUGA!\u201d tulis Trump dengan nada keras di platform media sosial miliknya, <em>Truth Social<\/em>.<\/p>\n\n<p data-start=\"603\" data-end=\"893\">Pernyataan Trump ini muncul setelah Menteri Pertahanan 'Israel', Israel Katz, memerintahkan militer untuk menyerang Teheran, dengan alasan Iran telah melanggar kesepakatan gencatan senjata, klaim yang langsung dibantah oleh Iran. Teheran bersumpah akan membalas jika diserang lagi.<\/p>\n\n<p data-start=\"895\" data-end=\"967\">Tak lama kemudian, Trump menenangkan situasi lewat postingan berikutnya:<\/p>\n\n<p data-start=\"895\" data-end=\"967\">\u201cISRAEL tidak akan menyerang Iran. Semua pesawat akan berbalik arah dan pulang, sambil melambaikan \u2018salam persahabatan\u2019 dari udara ke Iran. Tidak ada yang terluka. Gencatan senjata masih berlaku!\u201d<\/p>\n\n<p data-start=\"1169\" data-end=\"1338\">Trump juga menyombongkan bahwa fasilitas nuklir Iran yang diserang 'Israel' dan AS \u201csudah hancur total\u201d, dan menurutnya, Iran tidak akan bisa membangunnya kembali.<\/p>\n\n<p data-start=\"1345\" data-end=\"1390\"><strong>Trump Kecam 'Israel'<\/strong><\/p>\n\n<p data-start=\"1392\" data-end=\"1601\">Sebelumnya di hari yang sama, Trump meluapkan amarahnya ke 'Israel', mengatakan mereka telah \u201cmenjatuhkan bom sebanyak yang belum pernah saya lihat sebelumnya\u201d, bahkan setelah gencatan senjata diumumkan.<\/p>\n\n<p data-start=\"1392\" data-end=\"1601\">\u201cSaya kecewa sama 'Israel'. Saya sudah bilang \u2018oke, kalian punya 12 jam,\u2019 tapi mereka malah langsung menghabisi semuanya dalam satu jam pertama,\u201d ujarnya kesal.<\/p>\n\n<p data-start=\"1765\" data-end=\"1948\">Trump juga mengatakan 'Israel' bertindak terlalu reaktif hanya karena satu rudal dari Iran. Ia juga tidak suka bahwa 'Israel' langsung menyerang habis-habisan begitu kesepakatan tercapai.<\/p>\n\n<p data-start=\"1765\" data-end=\"1948\">\u201cJadi, saya kecewa. Sama Iran juga. Mereka berdua tidak tahu apa yang mereka lakukan,\u201d kata Trump dengan gaya blak-blakan khasnya. \u201cThey don\u2019t know what the f*ck they\u2019re doing,\u201d ujarnya di hadapan wartawan sebelum bertolak ke KTT NATO di Den Haag.<\/p>\n\n<p data-start=\"2204\" data-end=\"2250\"><strong>Awal Mula Gencatan Senjata Iran-'Israel'<\/strong><\/p>\n\n<p data-start=\"2252\" data-end=\"2393\">Gencatan senjata antara Iran dan 'Israel' resmi dimulai pada pukul 04:00 GMT, Selasa, mengakhiri \u201cperang 12 hari\u201d yang menegangkan.<\/p>\n\n<p data-start=\"2395\" data-end=\"2630\">Konflik bermula pada 13 Juni, ketika 'Israel' mulai menyerang Iran, menargetkan fasilitas nuklir dan militer, dengan alasan Iran hampir memiliki senjata nuklir. Bahkan, beberapa bangunan tempat tinggal juga ikut jadi sasaran.<\/p>\n\n<p data-start=\"2632\" data-end=\"2886\">Iran membalas dengan serangan misil besar-besaran, dan pada Minggu dini hari (15\/6), AS ikut masuk gelanggang dan membom tiga fasilitas nuklir utama Iran: Fordow, Natanz, dan Isfahan. Trump mengklaim serangan itu \u201cmenghancurkan total\u201d fasilitas tersebut.<\/p>\n\n<p data-start=\"2893\" data-end=\"2947\"><strong>Serangan Balasan Iran ke Pangkalan AS di Qatar<\/strong><\/p>\n\n<p data-start=\"2949\" data-end=\"3120\">Sebagai balasan, Iran menembakkan rudal ke Pangkalan Udara Al Udeid milik AS di Qatar pada Senin malam (23\/6). Untungnya, tidak ada korban jiwa atau kerusakan serius.<\/p>\n\n<p data-start=\"3122\" data-end=\"3331\">Gencatan senjata diumumkan langsung oleh Trump, dengan skema bertahap: Iran menghentikan serangan lebih dulu, dan 'Israel' menyusul 12 jam kemudian. Setelah 24 jam, semua operasi tempur resmi dihentikan.<\/p>\n\n<p data-start=\"3333\" data-end=\"3382\">Trump menutup pernyataannya dengan imbauan tegas: \u201cGencatan senjata sudah berlaku. Tolong JANGAN DILANGGAR!\u201d (zarahamala\/arrahmah.id)<\/p>","author":{"@type":"Person","name":"Zarah Amala","url":"https:\/\/www.arrahmah.id\/author\/zarah\/"},"articleSection":["Internasional"],"image":{"@type":"ImageObject","url":"https:\/\/www.arrahmah.id\/wp\/images\/stories\/2025\/06\/trump.png","width":678,"height":455},"publisher":{"@type":"Organization","name":"","url":"https:\/\/www.arrahmah.id","logo":{"@type":"ImageObject","url":""},"sameAs":["https:\/\/www.whatsapp.com\/channel\/0029VaDtrFx3gvWc9mJ0Wt3M","https:\/\/twitter.com\/arrahmah","https:\/\/instagram.com\/beritaarrahmah","https:\/\/telegram.me\/arrahmahcom","https:\/\/www.tiktok.com\/@arrahmahinside","https:\/\/youtube.com\/@arrahmah_id","https:\/\/thexapp.app.link\/b424V8Oo1Fb"]}}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"hentry","entry-title":"&#8216;Israel&#8217; Dilarang Ganggu Gencatan Senjata dengan Iran, Trump: &#8216;Tarik Pilot Kalian Sekarang Juga!&#8217;","published":"2025-06-25 07:31:58","updated":"2025-06-25 00:32:49"}</script>
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"BreadcrumbList","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https:\/\/www.arrahmah.id"},{"@type":"ListItem","position":2,"name":"News","item":"https:\/\/www.arrahmah.id\/kanal\/news\/"},{"@type":"ListItem","position":3,"name":"Internasional","item":"https:\/\/www.arrahmah.id\/kanal\/news\/internasional\/"}]}</script>
+<script type="text/javascript">;!function(){"use strict";window.jnews=window.jnews||{},window.jnews.first_load=window.jnews.first_load||{},window.jnews.first_load=function(){var e=this,t=jnews.library,n="object"==typeof jnews&&"object"==typeof jnews.library;e.data=null,e.run_ajax=!0,e.run_loginregister=!0,e.clear=function(){e.run_ajax=!0,e.run_loginregister=!0,e.data=null},e.init=function(){n&&(t.globalBody.querySelectorAll(".jeg_popup_account").length&&jnews.loginregister&&e.run_loginregister&&(e.run_loginregister=!1,jnews.loginregister.init(),jnews.loginregister.hook_form()),jfla.length&&e.run_ajax&&(e.run_ajax=!1,e.do_ajax({action:"jnews_first_load_action",jnews_id:jnewsoption.postid,load_action:jfla})))},e.update_counter=function(){if(n){var o={total_view:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_views_count .counts"),total_share:t.globalBody.querySelectorAll(".jeg_share_stats .jeg_share_count .counts"),total_comment:t.globalBody.querySelectorAll(".jeg_meta_comment a span")};t.forEach(Object.entries(e.data.counter),(function([e,n]){o[e].length&&t.forEach(o[e],(function(e,o){t.setText(e,n)}))}))}},e.do_ajax=function(o){if(n){var a=new XMLHttpRequest;a.onreadystatechange=function(){XMLHttpRequest.DONE===a.readyState&&200==a.status&&(e.data=JSON.parse(a.responseText),e.data.counter&&"object"==typeof e.data.counter&&e.update_counter())},a.open("POST",jnews_ajax_url,!0),a.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8"),a.send(t.httpBuildQuery(o))}}},window.jnews.first_load=new window.jnews.first_load,jnews.first_load.init()}();</script><script>!function(){window.advanced_ads_ready_queue=window.advanced_ads_ready_queue||[],advanced_ads_ready_queue.push=window.advanced_ads_ready;for(var d=0,a=advanced_ads_ready_queue.length;d<a;d++)advanced_ads_ready(advanced_ads_ready_queue[d])}();</script>		<script type="text/javascript">
+			(function () {
+				const iframe = document.getElementById( 'jetpack_remote_comment' );
+								const watchReply = function() {
+					// Check addComment._Jetpack_moveForm to make sure we don't monkey-patch twice.
+					if ( 'undefined' !== typeof addComment && ! addComment._Jetpack_moveForm ) {
+						// Cache the Core function.
+						addComment._Jetpack_moveForm = addComment.moveForm;
+						const commentParent = document.getElementById( 'comment_parent' );
+						const cancel = document.getElementById( 'cancel-comment-reply-link' );
+
+						function tellFrameNewParent ( commentParentValue ) {
+							const url = new URL( iframe.src );
+							if ( commentParentValue ) {
+								url.searchParams.set( 'replytocom', commentParentValue )
+							} else {
+								url.searchParams.delete( 'replytocom' );
+							}
+							if( iframe.src !== url.href ) {
+								iframe.src = url.href;
+							}
+						};
+
+						cancel.addEventListener( 'click', function () {
+							tellFrameNewParent( false );
+						} );
+
+						addComment.moveForm = function ( _, parentId ) {
+							tellFrameNewParent( parentId );
+							return addComment._Jetpack_moveForm.apply( null, arguments );
+						};
+					}
+				}
+				document.addEventListener( 'DOMContentLoaded', watchReply );
+				// In WP 6.4+, the script is loaded asynchronously, so we need to wait for it to load before we monkey-patch the functions it introduces.
+				document.querySelector('#comment-reply-js')?.addEventListener( 'load', watchReply );
+
+								
+				const commentIframes = document.getElementsByClassName('jetpack_remote_comment');
+
+				window.addEventListener('message', function(event) {
+					if (event.origin !== 'https://jetpack.wordpress.com') {
+						return;
+					}
+
+					if (!event?.data?.iframeUniqueId && !event?.data?.height) {
+						return;
+					}
+
+					const eventDataUniqueId = event.data.iframeUniqueId;
+
+					// Change height for the matching comment iframe
+					for (let i = 0; i < commentIframes.length; i++) {
+						const iframe = commentIframes[i];
+						const url = new URL(iframe.src);
+						const iframeUniqueIdParam = url.searchParams.get('iframe_unique_id');
+						if (iframeUniqueIdParam == event.data.iframeUniqueId) {
+							iframe.style.height = event.data.height + 'px';
+							return;
+						}
+					}
+				});
+			})();
+		</script>
+		</body>
+</html>
+<!--
+Performance optimized by Redis Object Cache. Learn more: https://wprediscache.com
+
+Retrieved 19167 objects (4 MB) from Redis using PhpRedis (v5.3.7).
+-->
+<!-- Cache Enabler by KeyCDN @ Wed, 25 Jun 2025 00:44:39 GMT (https-index.html) -->
